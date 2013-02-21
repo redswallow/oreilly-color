@@ -1,0 +1,764 @@
+(dp0
+S'PMS 301C'
+p1
+(lp2
+S'.NET and XML'
+p3
+aS'.NET Framework Essentials'
+p4
+aS'.NET My Services Essentials'
+p5
+aS'Access Cookbook '
+p6
+aS'Access Database Design & Programming'
+p7
+aS'Active Directory'
+p8
+aS'ADO: ActiveX Data Objects'
+p9
+aS'ADO.NET Cookbook'
+p10
+aS'ASP.NET Cookbook'
+p11
+aS'C# & VB.NET Conversion Pocket Reference'
+p12
+aS'C# Cookbook'
+p13
+aS'C# Essentials'
+p14
+aS'C# Language Pocket Reference'
+p15
+aS'COM and .NET Component Services'
+p16
+aS'COM+ Programming with Visual Basic'
+p17
+aS'Crossing Platforms: A Macintosh / Windows Phrasebook'
+p18
+aS'Designing Active Server Pages'
+p19
+aS'Designing and Programming CICS Applications'
+p20
+aS'Developing ASP Components'
+p21
+aS'DHCP for Windows 2000'
+p22
+aS'DNS on Windows 2000'
+p23
+aS'Essential System Administration Pocket Reference'
+p24
+aS'Excel Cookbook'
+p25
+aS'Excel Pocket Guide'
+p26
+aS'Learning C#'
+p27
+aS'Learning Visual Basic .NET'
+p28
+aS'Managing Microsoft Exchange Server'
+p29
+aS'Managing Security with Snort and IDS Tools'
+p30
+aS'Managing the Windows 2000 Registry'
+p31
+aS'Mastering Visual Studio .NET'
+p32
+aS'Object-Oriented Programming with Visual Basic .NET'
+p33
+aS'Outlook Pocket Guide'
+p34
+aS'Physics for Game Developers'
+p35
+aS'Programming .NET Web Services'
+p36
+aS'Programming ASP.NET'
+p37
+aS'Programming C#'
+p38
+aS'Programming .NET Security'
+p39
+aS'Programming .NET Windows Applications'
+p40
+aS'Programming the .NET Compact Framework'
+p41
+aS'Programming Visual Basic .NET'
+p42
+aS'Python Programming On Win32'
+p43
+aS'Shared Source CLI Essentials'
+p44
+aS'Subclassing & Hooking with Visual Basic'
+p45
+aS'Transact-SQL Cookbook'
+p46
+aS'Transact-SQL Programming '
+p47
+aS'VB.NET Language Pocket Reference'
+p48
+aS'VBScript Pocket Reference'
+p49
+aS'Win32 API Programming with Visual Basic'
+p50
+aS'Win32 Multithreaded Programming'
+p51
+aS'Windows 2000 Commands Pocket Reference'
+p52
+aS'Windows 2000 Performance Guide'
+p53
+aS'Windows NT TCP/IP Network Administration'
+p54
+aS'Windows System Policy Editor'
+p55
+aS'Windows XP Pocket Reference'
+p56
+aS'Word Pocket Guide'
+p57
+aS'Writing Excel Macros with VBA'
+p58
+aS'Writing Word Macros'
+p59
+asS'PMS 1815C'
+p60
+(lp61
+S'Linux Web Server CD Bookshelf'
+p62
+asS'PMS 3272C'
+p63
+(lp64
+S'ActionScript Cookbook'
+p65
+aS'ActionScript for Flash MX Pocket Reference'
+p66
+aS'ActionScript for Flash MX: The Definitive Guide'
+p67
+aS'Apache Cookbook'
+p68
+aS'Apache Pocket Reference'
+p69
+aS'Apache: The Definitive Guide'
+p70
+aS'Building Database-Driven Web Sites with Dreamweaver MX 2004'
+p71
+aS'Cascading Style Sheets: The Definitive Guide'
+p72
+aS'Content Syndication with RSS'
+p73
+aS'Creating Applications with Mozilla'
+p74
+aS'CSS Pocket Reference'
+p75
+aS'DocBook: The Definitive Guide'
+p76
+aS'Dynamic HTML: The Definitive Reference'
+p77
+aS'Essential Blogging'
+p78
+aS'Flash Remoting MX: The Definitive Guide'
+p79
+aS'HTML & XHTML: The Definitive Guide'
+p80
+aS'HTML Pocket Reference'
+p81
+aS'HTTP Pocket Reference'
+p82
+aS'HTTP: The Definitive Guide'
+p83
+aS'Information Architecture for the World Wide Web'
+p84
+aS'JavaScript & DHTML Cookbook'
+p85
+aS'JavaScript Application Cookbook'
+p86
+aS'JavaScript Pocket Reference'
+p87
+aS'JavaScript: The Definitive Guide'
+p88
+aS'Learning VBScript'
+p89
+aS'Learning XML'
+p90
+aS'Learning XSLT'
+p91
+aS'Office 2003 XML Essentials'
+p92
+aS'Perl for Web Site Management'
+p93
+aS'PHP Cookbook'
+p94
+aS'PHP Pocket Reference'
+p95
+aS'Practical RDF'
+p96
+aS'Practical XML Data Modeling'
+p97
+aS'Programming .NET Components'
+p98
+aS'Programming ColdFusion MX'
+p99
+aS'Programming Jabber'
+p100
+aS'Programming PHP'
+p101
+aS'Programming Web Services with SOAP'
+p102
+aS'Programming Web Services with XML-RPC'
+p103
+aS'RELAX NG'
+p104
+aS'Running Weblogs with Slash'
+p105
+aS'SAX2'
+p106
+aS'SVG Essentials'
+p107
+aS'Web Caching'
+p108
+aS'Web Database Applications with PHP & MySQL'
+p109
+aS'Web Design CD Bookshelf'
+p110
+aS'Web Performance Tuning'
+p111
+aS'Web Privacy with P3P'
+p112
+aS'Web Security, Privacy & Commerce'
+p113
+aS'Web Services Essentials'
+p114
+aS'Writing Apache Modules with Perl and C'
+p115
+aS'XML CD Bookshelf'
+p116
+aS'XML Pocket Reference'
+p117
+aS'XML Publishing with AxKit'
+p118
+aS'XML Schema'
+p119
+aS'XPath and XPointer'
+p120
+aS'XSL-FO'
+p121
+aS'XSLT'
+p122
+aS'XSLT Cookbook'
+p123
+asS'PMS 313C'
+p124
+(lp125
+S'Advanced Perl Programming'
+p126
+aS'CGI Programming with Perl'
+p127
+aS'Computer Science & Perl Programming: Best of the Perl Journal'
+p128
+aS'Embedding Perl in HTML with Mason'
+p129
+aS'Extreme Programming Pocket Guide'
+p130
+aS'Games, Diversions & Perl Culture: Best of the Perl Journal'
+p131
+aS'Learning Perl on Win32 Systems'
+p132
+aS'Learning Perl'
+p133
+aS'Learning Perl Object, References, and Modules'
+p134
+aS'Mastering Algorithms with Perl'
+p135
+aS'Mastering Perl/Tk'
+p136
+aS'Mastering Regular Expressions'
+p137
+aS'Perl 6 Essentials'
+p138
+aS'Perl & LWP'
+p139
+aS'Perl & XML'
+p140
+aS'Perl CD Bookshelf'
+p141
+aS'Perl Cookbook'
+p142
+aS'Perl Debugger Pocket Reference'
+p143
+aS'Perl for System Administration'
+p144
+aS'Perl Graphics Programming'
+p145
+aS'Perl Pocket Reference'
+p146
+aS'Perl Template Toolkit'
+p147
+aS'Perl/Tk Pocket Reference'
+p148
+aS'Practical mod_perl '
+p149
+aS'Programming Perl'
+p150
+aS'Programming the Perl DBI'
+p151
+aS'Programming Web Services with Perl'
+p152
+aS'Regular Expression Pocket Reference'
+p153
+aS'Tcl/Tk Pocket Reference'
+p154
+aS'Web, Graphics & Perl/Tk: Best of the Perl Journal'
+p155
+asS'PMS 165C'
+p156
+(lp157
+S'Building Oracle XML Applications'
+p158
+aS'Java Programming with Oracle JDBC'
+p159
+aS'Learning Oracle PL/SQL'
+p160
+aS'Mastering Oracle SQL'
+p161
+aS'Optimizing Oracle Performance'
+p162
+aS'Oracle Built-in Packages'
+p163
+aS'Oracle Database Administration: The Essential Reference'
+p164
+aS'Oracle Data Dictionary Pocket Reference'
+p165
+aS'Oracle DBA Checklists Pocket Reference'
+p166
+aS'Oracle Design'
+p167
+aS'Oracle Essentials: Oracle Database 10g'
+p168
+aS'Oracle Net8 Configuration and Troubleshooting'
+p169
+aS'Oracle Performance Tuning'
+p170
+aS'Oracle PL/SQL Best Practices '
+p171
+aS'Oracle PL/SQL Built-ins Pocket Reference'
+p172
+aS'Oracle PL/SQL CD Bookshelf'
+p173
+aS"Oracle PL/SQL Developer's Workbook"
+p174
+aS'Oracle PL/SQL Language Pocket Reference'
+p175
+aS'Oracle PL/SQL Programming'
+p176
+aS'Oracle Regular Expressions Pocket Reference'
+p177
+aS'Oracle RMAN Pocket Reference'
+p178
+aS'Oracle Scripts'
+p179
+aS'Oracle SQL Tuning Pocket Reference'
+p180
+aS'Oracle SQL*Loader: The Definitive Guide'
+p181
+aS'Oracle SQL*Plus Pocket Reference'
+p182
+aS'Oracle SQL*Plus: The Definitive Guide'
+p183
+aS'Oracle SQL: The Essential Reference'
+p184
+aS'Oracle8i Internal Services for Waits, Latches, Locks, and Memory'
+p185
+aS'Perl for Oracle DBAs'
+p186
+aS'TOAD Pocket Reference for Oracle'
+p187
+aS'Unix for Oracle DBAs Pocket Reference'
+p188
+asS'PMS 1375C'
+p189
+(lp190
+S'Windows 98 Annoyances'
+p191
+aS'Windows Me Annoyances'
+p192
+aS'Windows XP Annoyances'
+p193
+asS'PMS 3298C'
+p194
+(lp195
+S'Beginning Perl for Bioinformatics'
+p196
+aS'BLAST'
+p197
+aS'Developing Bioinformatics Computer Skills'
+p198
+aS'Mastering Perl for Bioinformatics'
+p199
+aS'R for Bioinformatics'
+p200
+asS'PMS 877C'
+p201
+(lp202
+S'Palm OS Network Programming'
+p203
+aS'Palm OS Programming'
+p204
+aS'PalmPilot: The Ultimate Guide'
+p205
+aS'Programming Visual Basic for Palm OS'
+p206
+asS'PMS 2607C'
+p207
+(lp208
+S'Ant: The Definitive Guide'
+p209
+aS'Building Java Enterprise Applications Vol. I: Architecture'
+p210
+aS'Building Java Enterprise Applications Vol. II: Web Applications'
+p211
+aS'Database Programming with JDBC and Java'
+p212
+aS'Enterprise JavaBeans'
+p213
+aS'Hardcore Java'
+p214
+aS'J2EE Design Patterns'
+p215
+aS'Jakarta Struts Pocket Reference'
+p216
+aS'Java & XML Data Binding'
+p217
+aS'Java & XML'
+p218
+aS'Java 2D Graphics'
+p219
+aS'Java and SOAP'
+p220
+aS'Java and XSLT'
+p221
+aS'Java Best Practices'
+p222
+aS'Java Cookbook'
+p223
+aS'Java Data Objects'
+p224
+aS'Java Database Best Practices'
+p225
+aS'Java Enterprise Best Practices'
+p226
+aS'Java Enterprise CD Bookshelf'
+p227
+aS'Java Extreme Programming Cookbook'
+p228
+aS'Java I/O'
+p229
+aS'Java Internationalization '
+p230
+aS'Java Management Extensions'
+p231
+aS'Java Message Service'
+p232
+aS'Java Network Programming'
+p233
+aS'Java NIO'
+p234
+aS'Java Performance Tuning'
+p235
+aS'Java RMI'
+p236
+aS'Java Security'
+p237
+aS'Java Servlet & JSP Cookbook'
+p238
+aS'Java Servlet Programming'
+p239
+aS'Java Swing'
+p240
+aS'Java Threads'
+p241
+aS'Java Web Services'
+p242
+aS'JavaServer Pages Pocket Reference'
+p243
+aS'JavaServer Faces'
+p244
+aS'JavaServer Pages'
+p245
+aS'JDBC Pocket Reference'
+p246
+aS'JUnit: The Definitive Guide'
+p247
+aS'Learning Java'
+p248
+aS'Learning Wireless Java'
+p249
+aS'Mac OS X for Java Geeks'
+p250
+aS'NetBeans: The Definitive Guide'
+p251
+aS'Programming Apache Axis'
+p252
+aS'Programming Jakarta Struts'
+p253
+aS'Tomcat: The Definitive Guide'
+p254
+aS'WebLogic Server 6.1 Workbook for Enterprise Javabeans'
+p255
+aS'WebLogic: The Definitive Guide'
+p256
+aS'WebSphere 4.0 AEs Workbook for Enterprise Javabeans'
+p257
+asS'PMS Reflex Blue'
+p258
+(lp259
+S'802.11 Security'
+p260
+aS'802.11 Wireless Networks: The Definitive Guide'
+p261
+aS'BEEP: The Definitive Guide'
+p262
+aS'BGP'
+p263
+aS'Building Wireless Community Networks'
+p264
+aS'Cisco Cookbook'
+p265
+aS'Cisco IOS Access Lists'
+p266
+aS'Designing Large-Scale LANs'
+p267
+aS'DNS and BIND Cookbook'
+p268
+aS'DNS and BIND'
+p269
+aS'Essential SNMP'
+p270
+aS'Essential System Administration'
+p271
+aS'Ethernet:The Definitive Guide'
+p272
+aS'Exim: The Mail Transfer Agent'
+p273
+aS'Hardening Cisco Routers'
+p274
+aS'Internet Application Protocols: The Definitive Guide'
+p275
+aS'Internet Core Protocols: The Definitive Guide'
+p276
+aS'IP Routing'
+p277
+aS'IPv6 Essentials'
+p278
+aS'Kerberos: The Definitive Guide'
+p279
+aS'LDAP System Administration'
+p280
+aS'Managing IMAP'
+p281
+aS'Managing IP Networks with Cisco Routers'
+p282
+aS'Managing Mailing Lists'
+p283
+aS'Managing NFS and NIS'
+p284
+aS'Network Printing'
+p285
+aS'Network Troubleshooting Tools'
+p286
+aS'Networking CD Bookshelf'
+p287
+aS'Postfix: The Definitive Guide'
+p288
+aS'Practical VoIP Using VOCAL'
+p289
+aS'Programming Internet Email '
+p290
+aS'qmail'
+p291
+aS'RADIUS'
+p292
+aS'Samba Pocket Reference'
+p293
+aS'sendmail Cookbook'
+p294
+aS'sendmail Desktop Reference'
+p295
+aS'sendmail'
+p296
+aS'Server Load Balancing'
+p297
+aS"Solaris 8 Administrator's Guide"
+p298
+aS'Squid: The Definitive Guide'
+p299
+aS'SSH, The Secure Shell: The Definitive Guide'
+p300
+aS'System Performance Tuning'
+p301
+aS'T1 : A Survival Guide'
+p302
+aS'TCP/IP Network Administration'
+p303
+aS'termcap and terminfo'
+p304
+aS'Unix Backup and Recovery'
+p305
+aS'Using and Managing PPP'
+p306
+aS'Using Samba'
+p307
+aS'Using SANs and NAS'
+p308
+aS'Virtual Private Networks'
+p309
+asS'PMS 032C'
+p310
+(lp311
+S'CJKV Information Processing'
+p312
+asS'PMS 246C'
+p313
+(lp314
+S'Applying RCS and SCCS'
+p315
+aS'C Pocket Reference'
+p316
+aS'C++ Pocket Reference'
+p317
+aS'C++ The Core Language'
+p318
+aS'Checking C Programs with Lint'
+p319
+aS'CVS Pocket Reference'
+p320
+aS'Designing Embedded Hardware'
+p321
+aS'Effective awk Programming'
+p322
+aS'Essential CVS'
+p323
+aS'Exploring Expect'
+p324
+aS'GIMP Pocket Reference '
+p325
+aS'GNU Emacs Pocket Reference'
+p326
+aS'Jython Essentials'
+p327
+aS'Learning GNU Emacs'
+p328
+aS'Learning Python'
+p329
+aS'Learning Shell Scripting'
+p330
+aS'Learning the bash Shell'
+p331
+aS'Learning the Korn Shell'
+p332
+aS'Learning the Unix Operating System'
+p333
+aS'Learning the vi Editor'
+p334
+aS'Learning UML'
+p335
+aS'lex & yacc'
+p336
+aS'Managing & Using MySQL'
+p337
+aS'Managing Projects with make'
+p338
+aS'Mastering Algorithms with C'
+p339
+aS'MySQL Cookbook'
+p340
+aS'MySQL Pocket Reference'
+p341
+aS'Objective-C Pocket Reference'
+p342
+aS'Power Programming with RPC'
+p343
+aS'Practical PostgreSQL'
+p344
+aS'Practical C Programming'
+p345
+aS'Practical C++ Programming'
+p346
+aS'Programming Embedded Systems in C and C++'
+p347
+aS'Programming Python'
+p348
+aS'Programming with curses'
+p349
+aS'Programming with GNU Software'
+p350
+aS'Programming with Qt'
+p351
+aS'PThreads Programming'
+p352
+aS'Python & XML'
+p353
+aS'Python Cookbook'
+p354
+aS'Python Pocket Reference'
+p355
+aS'Python Standard Library'
+p356
+aS'RTF Pocket Guide'
+p357
+aS'Secure Programming Cookbook for C and C++'
+p358
+aS'sed & awk Pocket Reference'
+p359
+aS'sed & awk'
+p360
+aS'Software Portability with imake'
+p361
+aS'SQL Pocket Reference'
+p362
+aS'SQL Tuning'
+p363
+aS'STL Pocket Reference'
+p364
+aS'UML Pocket Reference'
+p365
+aS'Unix CD Bookshelf'
+p366
+aS'Using csh & tcsh'
+p367
+aS'vi Editor Pocket Reference'
+p368
+asS'PMS 254C'
+p369
+(lp370
+S'2001 P2P Networking Overview'
+p371
+asS'PMS 2725C'
+p372
+(lp373
+S'Applescript: The Definitive Guide'
+p374
+aS'Building Cocoa Applications: A Step-by-Step Guide'
+p375
+aS'Cocoa Design Patterns'
+p376
+aS'Learning Carbon'
+p377
+aS'Learning Cocoa with Objective-C'
+p378
+aS'Learning Unix for Mac OS X'
+p379
+aS'Learning Unix for Mac OS X Panther'
+p380
+aS'Mac OS X for Unix Geeks'
+p381
+aS'Mac OS X Panthet for Unix Geeks'
+p382
+aS'Mac OS X Pocket Guide'
+p383
+aS'Mac OS X Pocket Guide'
+p384
+aS'Mac OS X Unwired'
+p385
+aS'Macintosh Troubleshooting Pocket Guide'
+p386
+aS'REALbasic: The Definitive Guide'
+p387
+aS'Running Mac OS X Panther'
+p388
+as.
