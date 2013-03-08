@@ -10,6 +10,8 @@ PICKLE_FILE='bookdata_pickle'
 COLOR_FILE='color_pickle'
 STOPWORDS_FILE='stopwords'
 TAB='	'
+PMS2RGB={u'PMS 301C': u'#0000CC', u'PMS 1815C': u'#660000', u'PMS 3272C': u'#009999', u'PMS 313C': u'#006699', u'PMS 165C': u'#FF6600', u'PMS 1375C': u'#FF9933', u'PMS 3298C': u'#006666', u'PMS 877C': u'#6699CC', u'PMS 2607C': u'#330066', u'&nbsp;': u'#0000CC', u'PMS Reflex Blue': u'#000099', u'PMS 032C': u'#CC0033', u'PMS 246C': u'#990066', u'PMS 254C': u'#990099', u'PMS 2725C': u'#660098'}
+
 
 def get_books():
     try:
@@ -42,6 +44,9 @@ def get_rgb():
         if pms not in pms2rgb.keys():
             pms2rgb[pms]=rgb
     return pms2rgb
+
+def get_bookwords(bookname):
+    return bookname.lower().replace('&','').replace(':','').split()
 
 def color_set(books):
     try:
@@ -78,27 +83,28 @@ def book_keywords(books):
                 wordset[word]=wordset[word]+1
             else:
                 wordset[word]=1
-    return sorted(wordset.items(), key=lambda d: d[1],reverse=True)
+    return sorted(wordset.items(), key=lambda d: d[1],reverse=True) 
 
 def network(books):
     stopwords=get_stopwords()
     G=nx.Graph()
+    node_color=[]
     for book1 in books:
         G.add_node(book1['name'])
-        book1_words=book1['name'].lower().split()
+        node_color.append(PMS2RGB[book1['color']])
         for book2 in books:
             if book1==book2:
                 continue
             else:
-                for word in book1_words:
-                    book2_words=book2['name'].lower().split()
-                    if word not in stopwords and word in book2_words:
+                for word in get_bookwords(book1['name']):
+                    if word not in stopwords and word in get_bookwords(book2['name']):
                         G.add_edge(book1['name'],book2['name'])
+    node_size=[G.degree(v)*10+10 for v in G]
     pos=nx.spring_layout(G)
     nx.draw_networkx_edges(G,pos,alpha=0.05)
-    nx.draw_networkx_nodes(G,pos,node_size=[G.degree(v)*10+10 for v in G],alpha=0.3)
+    nx.draw_networkx_nodes(G,pos,node_size=node_size,node_color=node_color,alpha=0.3)
     #nx.draw_networkx_labels(G,pos,alpha=0.3)
-    print G.degree()
+    #print G.degree()
     plt.show()
 
 def wordle(words):
