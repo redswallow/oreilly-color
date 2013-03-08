@@ -1,10 +1,12 @@
 import pickle,BeautifulSoup,urllib2,re
 import numpy as np
 import pylab as P
+import nltk
 
 RAW_FILE='bookdata_raw'
 PICKLE_FILE='bookdata_pickle'
 COLOR_FILE='color_pickle'
+STOPWORDS_FILE='stopwords'
 TAB='	'
 
 def get_books():
@@ -23,6 +25,10 @@ def get_books():
         with file(PICKLE_FILE,'wb') as f:
             pickle.dump(books,f)
     return books
+
+def get_stopwords():
+    with open(STOPWORDS_FILE,'r') as f:
+        return f.read().split()
 
 def get_rgb():
     pms2rgb={}
@@ -62,22 +68,23 @@ def book_num_by_colors_img(colors):
 
 def book_keywords(books):
     wordset={}
+    stopwords=get_stopwords()
     for book in books:
         words=re.split(r'\s+',book.lower())
         for word in words:
-            if word in wordset:
+            if word not in stopwords and word in wordset:
                 wordset[word]=wordset[word]+1
             else:
                 wordset[word]=1
-    
-    for word in wordset:
-        print word,wordset[word]
+    return sorted(wordset.items(), key=lambda d: d[1],reverse=True)
 
-def word_cloud(words):
-    pass
+def wordle(words):
+    tags = make_tags(fdist.items()[:100], maxsize=50)
+    create_tag_image(tags, 'sample_word_cloud.png', size=(900, 600), background=(0, 0, 0))
+    
     
 books=get_books()
 colors=color_set(books)
-book_num_by_colors_img(colors)
+#book_num_by_colors_img(colors)
 #print colors['PMS Reflex Blue']
-#book_keywords(colors['PMS Reflex Blue'])
+print book_keywords(colors['PMS 2725C'])
