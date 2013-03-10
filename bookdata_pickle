@@ -1,3605 +1,1438 @@
-(lp0
-(dp1
-S'color'
-p2
-S'PMS 301C'
-p3
-sS'name'
-p4
-S'.NET and XML'
-p5
-sS'animal'
-p6
-S'Canadian geese\n'
-p7
-sa(dp8
-g2
-S'PMS 301C'
-p9
-sg4
-S'.NET Framework Essentials'
-p10
-sg6
-S'Shrimp\n'
-p11
-sa(dp12
-g2
-S'PMS 301C'
-p13
-sg4
-S'.NET My Services Essentials'
-p14
-sg6
-S'Thorny oyster\n'
-p15
-sa(dp16
-g2
-S'PMS 254C'
-p17
-sg4
-S'2001 P2P Networking Overview'
-p18
-sg6
-S'Porpoise\n'
-p19
-sa(dp20
-g2
-S'PMS Reflex Blue'
-p21
-sg4
-S'802.11 Security'
-p22
-sg6
-S'Indian ringnecked parakeet\n'
-p23
-sa(dp24
-g2
-S'PMS Reflex Blue'
-p25
-sg4
-S'802.11 Wireless Networks: The Definitive Guide'
-p26
-sg6
-S'Horseshoe bat\n'
-p27
-sa(dp28
-g2
-S'PMS 301C'
-p29
-sg4
-S'Access Cookbook '
-p30
-sg6
-S'Tamandua mexicana (Northern anteater)\n'
-p31
-sa(dp32
-g2
-S'PMS 301C'
-p33
-sg4
-S'Access Database Design & Programming'
-p34
-sg6
-S'Anteater\n'
-p35
-sa(dp36
-g2
-S'PMS 3272C'
-p37
-sg4
-S'ActionScript Cookbook'
-p38
-sg6
-S'Crab-eating opossum\n'
-p39
-sa(dp40
-g2
-S'PMS 3272C'
-p41
-sg4
-S'ActionScript for Flash MX Pocket Reference'
-p42
-sg6
-S'Siren\n'
-p43
-sa(dp44
-g2
-S'PMS 3272C'
-p45
-sg4
-S'ActionScript for Flash MX: The Definitive Guide'
-p46
-sg6
-S'Siren\n'
-p47
-sa(dp48
-g2
-S'PMS 301C'
-p49
-sg4
-S'Active Directory'
-p50
-sg6
-S'Cat & kitten\n'
-p51
-sa(dp52
-g2
-S'PMS 301C'
-p53
-sg4
-S'ADO: ActiveX Data Objects'
-p54
-sg6
-S'Ivory-billed woodpecker\n'
-p55
-sa(dp56
-g2
-S'PMS 301C'
-p57
-sg4
-S'ADO.NET Cookbook'
-p58
-sg6
-S'White spoonbill\n'
-p59
-sa(dp60
-g2
-S'PMS 313C'
-p61
-sg4
-S'Advanced Perl Programming'
-p62
-sg6
-S'Panther\n'
-p63
-sa(dp64
-g2
-S'PMS 2607C'
-p65
-sg4
-S'Ant: The Definitive Guide'
-p66
-sg6
-S'Horny toad\n'
-p67
-sa(dp68
-g2
-S'PMS 3272C'
-p69
-sg4
-S'Apache Cookbook'
-p70
-sg6
-S'Moose\n'
-p71
-sa(dp72
-g2
-S'PMS 3272C'
-p73
-sg4
-S'Apache Pocket Reference'
-p74
-sg6
-S'Apallousa Horse\n'
-p75
-sa(dp76
-g2
-S'PMS 3272C'
-p77
-sg4
-S'Apache: The Definitive Guide'
-p78
-sg6
-S'Apallousa Horse\n'
-p79
-sa(dp80
-g2
-S'PMS 2725C'
-p81
-sg4
-S'Applescript: The Definitive Guide'
-p82
-sg6
-S'Boston terrier\n'
-p83
-sa(dp84
-g2
-S'PMS 246C'
-p85
-sg4
-S'Applying RCS and SCCS'
-p86
-sg6
-S'Racoons\n'
-p87
-sa(dp88
-g2
-S'PMS 301C'
-p89
-sg4
-S'ASP.NET Cookbook'
-p90
-sg6
-S'Thorny woodcock\n'
-p91
-sa(dp92
-g2
-S'PMS Reflex Blue'
-p93
-sg4
-S'BEEP: The Definitive Guide'
-p94
-sg6
-S'Coyote\n'
-p95
-sa(dp96
-g2
-S'PMS 3298C'
-p97
-sg4
-S'Beginning Perl for Bioinformatics'
-p98
-sg6
-S'Tadpoles\n'
-p99
-sa(dp100
-g2
-S'PMS Reflex Blue'
-p101
-sg4
-S'BGP'
-p102
-sg6
-S'Antelope\n'
-p103
-sa(dp104
-g2
-S'PMS 3298C'
-p105
-sg4
-S'BLAST'
-p106
-sg6
-S'Coelacanth\n'
-p107
-sa(dp108
-g2
-S'PMS 2725C'
-p109
-sg4
-S'Building Cocoa Applications: A Step-by-Step Guide'
-p110
-sg6
-S'Mastiff\n'
-p111
-sa(dp112
-g2
-S'PMS 3272C'
-p113
-sg4
-S'Building Database-Driven Web Sites with Dreamweaver MX 2004'
-p114
-sg6
-S'Cobra\n'
-p115
-sa(dp116
-g2
-S'PMS 2607C'
-p117
-sg4
-S'Building Java Enterprise Applications Vol. I: Architecture'
-p118
-sg6
-S'Kangaroo rat\n'
-p119
-sa(dp120
-g2
-S'PMS 2607C'
-p121
-sg4
-S'Building Java Enterprise Applications Vol. II: Web Applications'
-p122
-sg6
-S'Kangaroo rat\n'
-p123
-sa(dp124
-g2
-S'PMS 165C'
-p125
-sg4
-S'Building Oracle XML Applications'
-p126
-sg6
-S'Peacock butterfly\n'
-p127
-sa(dp128
-g2
-S'PMS Reflex Blue'
-p129
-sg4
-S'Building Wireless Community Networks'
-p130
-sg6
-S'Carolina parakeets\n'
-p131
-sa(dp132
-g2
-S'PMS 246C'
-p133
-sg4
-S'C Pocket Reference'
-p134
-sg6
-S'Cow\n'
-p135
-sa(dp136
-g2
-S'PMS 301C'
-p137
-sg4
-S'C# & VB.NET Conversion Pocket Reference'
-p138
-sg6
-S'Black-headed gull\n'
-p139
-sa(dp140
-g2
-S'PMS 301C'
-p141
-sg4
-S'C# Cookbook'
-p142
-sg6
-S'Garter snake\n'
-p143
-sa(dp144
-g2
-S'PMS 301C'
-p145
-sg4
-S'C# Essentials'
-p146
-sg6
-S'Mole\n'
-p147
-sa(dp148
-g2
-S'PMS 301C'
-p149
-sg4
-S'C# Language Pocket Reference'
-p150
-sg6
-S'African crowned crane\n'
-p151
-sa(dp152
-g2
-S'PMS 246C'
-p153
-sg4
-S'C++ Pocket Reference'
-p154
-sg6
-S'Chipmunk\n'
-p155
-sa(dp156
-g2
-S'PMS 246C'
-p157
-sg4
-S'C++ The Core Language'
-p158
-sg6
-S'Coati\n'
-p159
-sa(dp160
-g2
-S'PMS 3272C'
-p161
-sg4
-S'Cascading Style Sheets: The Definitive Guide'
-p162
-sg6
-S'Salmon\n'
-p163
-sa(dp164
-g2
-S'PMS 313C'
-p165
-sg4
-S'CGI Programming with Perl'
-p166
-sg6
-S'Mouse\n'
-p167
-sa(dp168
-g2
-S'PMS 246C'
-p169
-sg4
-S'Checking C Programs with Lint'
-p170
-sg6
-S'Kiwi\n'
-p171
-sa(dp172
-g2
-S'PMS Reflex Blue'
-p173
-sg4
-S'Cisco Cookbook'
-p174
-sg6
-S'Black jaguar\n'
-p175
-sa(dp176
-g2
-S'PMS Reflex Blue'
-p177
-sg4
-S'Cisco IOS Access Lists'
-p178
-sg6
-S'Domestic ass\n'
-p179
-sa(dp180
-g2
-S'PMS 032C'
-p181
-sg4
-S'CJKV Information Processing'
-p182
-sg6
-S'Blowfish\n'
-p183
-sa(dp184
-g2
-S'PMS 2725C'
-p185
-sg4
-S'Cocoa Design Patterns'
-p186
-sg6
-S'Staghound\n'
-p187
-sa(dp188
-g2
-S'PMS 301C'
-p189
-sg4
-S'COM and .NET Component Services'
-p190
-sg6
-S'Eels\n'
-p191
-sa(dp192
-g2
-S'PMS 301C'
-p193
-sg4
-S'COM+ Programming with Visual Basic'
-p194
-sg6
-S'Minnows\n'
-p195
-sa(dp196
-g2
-S'PMS 313C'
-p197
-sg4
-S'Computer Science & Perl Programming: Best of the Perl Journal'
-p198
-sg6
-S'Camel\n'
-p199
-sa(dp200
-g2
-S'PMS 3272C'
-p201
-sg4
-S'Content Syndication with RSS'
-p202
-sg6
-S'Kestrel\n'
-p203
-sa(dp204
-g2
-S'PMS 3272C'
-p205
-sg4
-S'Creating Applications with Mozilla'
-p206
-sg6
-S'Frilled lizard\n'
-p207
-sa(dp208
-g2
-S'PMS 301C'
-p209
-sg4
-S'Crossing Platforms: A Macintosh / Windows Phrasebook'
-p210
-sg6
-S'Rabbit & frog\n'
-p211
-sa(dp212
-g2
-S'PMS 3272C'
-p213
-sg4
-S'CSS Pocket Reference'
-p214
-sg6
-S'Salmon\n'
-p215
-sa(dp216
-g2
-S'PMS 246C'
-p217
-sg4
-S'CVS Pocket Reference'
-p218
-sg6
-S'Sheep\n'
-p219
-sa(dp220
-g2
-S'PMS 2607C'
-p221
-sg4
-S'Database Programming with JDBC and Java'
-p222
-sg6
-S'Springbok\n'
-p223
-sa(dp224
-g2
-S'PMS 301C'
-p225
-sg4
-S'Designing Active Server Pages'
-p226
-sg6
-S'Night monkey\n'
-p227
-sa(dp228
-g2
-S'PMS 301C'
-p229
-sg4
-S'Designing and Programming CICS Applications'
-p230
-sg6
-S'Gyr falcon\n'
-p231
-sa(dp232
-g2
-S'PMS 246C'
-p233
-sg4
-S'Designing Embedded Hardware'
-p234
-sg6
-S'Porcelain crab\n'
-p235
-sa(dp236
-g2
-S'PMS Reflex Blue'
-p237
-sg4
-S'Designing Large-Scale LANs'
-p238
-sg6
-S'Reindeer\n'
-p239
-sa(dp240
-g2
-S'PMS 301C'
-p241
-sg4
-S'Developing ASP Components'
-p242
-sg6
-S'Snake\n'
-p243
-sa(dp244
-g2
-S'PMS 3298C'
-p245
-sg4
-S'Developing Bioinformatics Computer Skills'
-p246
-sg6
-S'C. elegans\n'
-p247
-sa(dp248
-g2
-S'PMS 301C'
-p249
-sg4
-S'DHCP for Windows 2000'
-p250
-sg6
-S'Frilled coquette hummingbird\n'
-p251
-sa(dp252
-g2
-S'PMS Reflex Blue'
-p253
-sg4
-S'DNS and BIND Cookbook'
-p254
-sg6
-S'Opossum\n'
-p255
-sa(dp256
-g2
-S'PMS Reflex Blue'
-p257
-sg4
-S'DNS and BIND'
-p258
-sg6
-S'Grasshopper\n'
-p259
-sa(dp260
-g2
-S'PMS 301C'
-p261
-sg4
-S'DNS on Windows 2000'
-p262
-sg6
-S'Raven\n'
-p263
-sa(dp264
-g2
-S'PMS 3272C'
-p265
-sg4
-S'DocBook: The Definitive Guide'
-p266
-sg6
-S'Wood duck\n'
-p267
-sa(dp268
-g2
-S'PMS 3272C'
-p269
-sg4
-S'Dynamic HTML: The Definitive Reference'
-p270
-sg6
-S'Flamingo\n'
-p271
-sa(dp272
-g2
-S'PMS 246C'
-p273
-sg4
-S'Effective awk Programming'
-p274
-sg6
-S'Auk bird\n'
-p275
-sa(dp276
-g2
-S'PMS 313C'
-p277
-sg4
-S'Embedding Perl in HTML with Mason'
-p278
-sg6
-S'Arab baboon\n'
-p279
-sa(dp280
-g2
-S'PMS 2607C'
-p281
-sg4
-S'Enterprise JavaBeans'
-p282
-sg6
-S'Wallaby & joey\n'
-p283
-sa(dp284
-g2
-S'PMS 3272C'
-p285
-sg4
-S'Essential Blogging'
-p286
-sg6
-S'Flat headed cats\n'
-p287
-sa(dp288
-g2
-S'PMS 246C'
-p289
-sg4
-S'Essential CVS'
-p290
-sg6
-S'Bobacs\n'
-p291
-sa(dp292
-g2
-S'PMS Reflex Blue'
-p293
-sg4
-S'Essential SNMP'
-p294
-sg6
-S'Red deer\n'
-p295
-sa(dp296
-g2
-S'PMS 301C'
-p297
-sg4
-S'Essential System Administration Pocket Reference'
-p298
-sg6
-S'Armadillo\n'
-p299
-sa(dp300
-g2
-S'PMS Reflex Blue'
-p301
-sg4
-S'Essential System Administration'
-p302
-sg6
-S'Armadillo\n'
-p303
-sa(dp304
-g2
-S'PMS Reflex Blue'
-p305
-sg4
-S'Ethernet:The Definitive Guide'
-p306
-sg6
-S'Octopus\n'
-p307
-sa(dp308
-g2
-S'PMS 301C'
-p309
-sg4
-S'Excel Cookbook'
-p310
-sg6
-S'Common mackerel\n'
-p311
-sa(dp312
-g2
-S'PMS 301C'
-p313
-sg4
-S'Excel Pocket Guide'
-p314
-sg6
-S'Gannet\n'
-p315
-sa(dp316
-g2
-S'PMS Reflex Blue'
-p317
-sg4
-S'Exim: The Mail Transfer Agent'
-p318
-sg6
-S'Aye-aye\n'
-p319
-sa(dp320
-g2
-S'PMS 246C'
-p321
-sg4
-S'Exploring Expect'
-p322
-sg6
-S'Chimpanzee\n'
-p323
-sa(dp324
-g2
-S'PMS 313C'
-p325
-sg4
-S'Extreme Programming Pocket Guide'
-p326
-sg6
-S'Chamois\n'
-p327
-sa(dp328
-g2
-S'PMS 3272C'
-p329
-sg4
-S'Flash Remoting MX: The Definitive Guide'
-p330
-sg6
-S'Cuttlefish\n'
-p331
-sa(dp332
-g2
-S'PMS 313C'
-p333
-sg4
-S'Games, Diversions & Perl Culture: Best of the Perl Journal'
-p334
-sg6
-S'Flying dragon\n'
-p335
-sa(dp336
-g2
-S'PMS 246C'
-p337
-sg4
-S'GIMP Pocket Reference '
-p338
-sg6
-S'Mouse\n'
-p339
-sa(dp340
-g2
-S'PMS 246C'
-p341
-sg4
-S'GNU Emacs Pocket Reference'
-p342
-sg6
-S'Gnu\n'
-p343
-sa(dp344
-g2
-S'PMS 2607C'
-p345
-sg4
-S'Hardcore Java'
-p346
-sg6
-S'Lion\n'
-p347
-sa(dp348
-g2
-S'PMS Reflex Blue'
-p349
-sg4
-S'Hardening Cisco Routers'
-p350
-sg6
-S'North African wild ass\n'
-p351
-sa(dp352
-g2
-S'PMS 3272C'
-p353
-sg4
-S'HTML & XHTML: The Definitive Guide'
-p354
-sg6
-S'Koala\n'
-p355
-sa(dp356
-g2
-S'PMS 3272C'
-p357
-sg4
-S'HTML Pocket Reference'
-p358
-sg6
-S'Koala\n'
-p359
-sa(dp360
-g2
-S'PMS 3272C'
-p361
-sg4
-S'HTTP Pocket Reference'
-p362
-sg6
-S'Ground squirrel\n'
-p363
-sa(dp364
-g2
-S'PMS 3272C'
-p365
-sg4
-S'HTTP: The Definitive Guide'
-p366
-sg6
-S'Ground squirrel\n'
-p367
-sa(dp368
-g2
-S'PMS 3272C'
-p369
-sg4
-S'Information Architecture for the World Wide Web'
-p370
-sg6
-S'Polar bear\n'
-p371
-sa(dp372
-g2
-S'PMS Reflex Blue'
-p373
-sg4
-S'Internet Application Protocols: The Definitive Guide'
-p374
-sg6
-S'Criss-cross fish & butterfly fish\n'
-p375
-sa(dp376
-g2
-S'PMS Reflex Blue'
-p377
-sg4
-S'Internet Core Protocols: The Definitive Guide'
-p378
-sg6
-S'Trout & char\n'
-p379
-sa(dp380
-g2
-S'PMS Reflex Blue'
-p381
-sg4
-S'IP Routing'
-p382
-sg6
-S'Zebu\n'
-p383
-sa(dp384
-g2
-S'PMS Reflex Blue'
-p385
-sg4
-S'IPv6 Essentials'
-p386
-sg6
-S'Rigatella snail\n'
-p387
-sa(dp388
-g2
-S'PMS 2607C'
-p389
-sg4
-S'J2EE Design Patterns'
-p390
-sg6
-S'Mollusk\n'
-p391
-sa(dp392
-g2
-S'PMS 2607C'
-p393
-sg4
-S'Jakarta Struts Pocket Reference'
-p394
-sg6
-S'Percheron\n'
-p395
-sa(dp396
-g2
-S'PMS 2607C'
-p397
-sg4
-S'Java & XML Data Binding'
-p398
-sg6
-S'Osprey\n'
-p399
-sa(dp400
-g2
-S'PMS 2607C'
-p401
-sg4
-S'Java & XML'
-p402
-sg6
-S'Lions\n'
-p403
-sa(dp404
-g2
-S'PMS 2607C'
-p405
-sg4
-S'Java 2D Graphics'
-p406
-sg6
-S'John Dory\n'
-p407
-sa(dp408
-g2
-S'PMS 2607C'
-p409
-sg4
-S'Java and SOAP'
-p410
-sg6
-S'Red firefish\n'
-p411
-sa(dp412
-g2
-S'PMS 2607C'
-p413
-sg4
-S'Java and XSLT'
-p414
-sg6
-S'Ermines\n'
-p415
-sa(dp416
-g2
-S'PMS 2607C'
-p417
-sg4
-S'Java Best Practices'
-p418
-sg6
-S'Javan tiger\n'
-p419
-sa(dp420
-g2
-S'PMS 2607C'
-p421
-sg4
-S'Java Cookbook'
-p422
-sg6
-S'Domestic fowl\n'
-p423
-sa(dp424
-g2
-S'PMS 2607C'
-p425
-sg4
-S'Java Data Objects'
-p426
-sg6
-S'Lagotis\n'
-p427
-sa(dp428
-g2
-S'PMS 2607C'
-p429
-sg4
-S'Java Database Best Practices'
-p430
-sg6
-S'Taguan\n'
-p431
-sa(dp432
-g2
-S'PMS 2607C'
-p433
-sg4
-S'Java Enterprise Best Practices'
-p434
-sg6
-S'Sand dollar\n'
-p435
-sa(dp436
-g2
-S'PMS 2607C'
-p437
-sg4
-S'Java Enterprise CD Bookshelf'
-p438
-sg6
-S'Javan tiger\n'
-p439
-sa(dp440
-g2
-S'PMS 2607C'
-p441
-sg4
-S'Java Extreme Programming Cookbook'
-p442
-sg6
-S'Bison\n'
-p443
-sa(dp444
-g2
-S'PMS 2607C'
-p445
-sg4
-S'Java I/O'
-p446
-sg6
-S'White rabbit\n'
-p447
-sa(dp448
-g2
-S'PMS 2607C'
-p449
-sg4
-S'Java Internationalization '
-p450
-sg6
-S'Poodles\n'
-p451
-sa(dp452
-g2
-S'PMS 2607C'
-p453
-sg4
-S'Java Management Extensions'
-p454
-sg6
-S'Octopus\n'
-p455
-sa(dp456
-g2
-S'PMS 2607C'
-p457
-sg4
-S'Java Message Service'
-p458
-sg6
-S'Passenger pigeon\n'
-p459
-sa(dp460
-g2
-S'PMS 2607C'
-p461
-sg4
-S'Java Network Programming'
-p462
-sg6
-S'River otter\n'
-p463
-sa(dp464
-g2
-S'PMS 2607C'
-p465
-sg4
-S'Java NIO'
-p466
-sg6
-S'Pig-footed bandicoot\n'
-p467
-sa(dp468
-g2
-S'PMS 2607C'
-p469
-sg4
-S'Java Performance Tuning'
-p470
-sg6
-S'Serval\n'
-p471
-sa(dp472
-g2
-S'PMS 165C'
-p473
-sg4
-S'Java Programming with Oracle JDBC'
-p474
-sg6
-S'Hummingbird moths\n'
-p475
-sa(dp476
-g2
-S'PMS 2607C'
-p477
-sg4
-S'Java RMI'
-p478
-sg6
-S'European red squirrel\n'
-p479
-sa(dp480
-g2
-S'PMS 2607C'
-p481
-sg4
-S'Java Security'
-p482
-sg6
-S'Tiger\n'
-p483
-sa(dp484
-g2
-S'PMS 2607C'
-p485
-sg4
-S'Java Servlet & JSP Cookbook'
-p486
-sg6
-S'Fennec\n'
-p487
-sa(dp488
-g2
-S'PMS 2607C'
-p489
-sg4
-S'Java Servlet Programming'
-p490
-sg6
-S'European bear\n'
-p491
-sa(dp492
-g2
-S'PMS 2607C'
-p493
-sg4
-S'Java Swing'
-p494
-sg6
-S'Spider monkey\n'
-p495
-sa(dp496
-g2
-S'PMS 2607C'
-p497
-sg4
-S'Java Threads'
-p498
-sg6
-S'Marine invertebrate\n'
-p499
-sa(dp500
-g2
-S'PMS 2607C'
-p501
-sg4
-S'Java Web Services'
-p502
-sg6
-S'European ibex\n'
-p503
-sa(dp504
-g2
-S'PMS 3272C'
-p505
-sg4
-S'JavaScript & DHTML Cookbook'
-p506
-sg6
-S'Howler monkey\n'
-p507
-sa(dp508
-g2
-S'PMS 3272C'
-p509
-sg4
-S'JavaScript Application Cookbook'
-p510
-sg6
-S'Hippopotamus\n'
-p511
-sa(dp512
-g2
-S'PMS 3272C'
-p513
-sg4
-S'JavaScript Pocket Reference'
-p514
-sg6
-S'Rhino\n'
-p515
-sa(dp516
-g2
-S'PMS 3272C'
-p517
-sg4
-S'JavaScript: The Definitive Guide'
-p518
-sg6
-S'Rhino\n'
-p519
-sa(dp520
-g2
-S'PMS 2607C'
-p521
-sg4
-S'JavaServer Pages Pocket Reference'
-p522
-sg6
-S'Grey wolf\n'
-p523
-sa(dp524
-g2
-S'PMS 2607C'
-p525
-sg4
-S'JavaServer Faces'
-p526
-sg6
-S'Barbary ape\n'
-p527
-sa(dp528
-g2
-S'PMS 2607C'
-p529
-sg4
-S'JavaServer Pages'
-p530
-sg6
-S'Grey wolf\n'
-p531
-sa(dp532
-g2
-S'PMS 2607C'
-p533
-sg4
-S'JDBC Pocket Reference'
-p534
-sg6
-S'Springbok\n'
-p535
-sa(dp536
-g2
-S'PMS 2607C'
-p537
-sg4
-S'JUnit: The Definitive Guide'
-p538
-sg6
-S'Yellow baboon\n'
-p539
-sa(dp540
-g2
-S'PMS 246C'
-p541
-sg4
-S'Jython Essentials'
-p542
-sg6
-S'Bank vole\n'
-p543
-sa(dp544
-g2
-S'PMS Reflex Blue'
-p545
-sg4
-S'Kerberos: The Definitive Guide'
-p546
-sg6
-S'Barred owl\n'
-p547
-sa(dp548
-g2
-S'PMS Reflex Blue'
-p549
-sg4
-S'LDAP System Administration'
-p550
-sg6
-S'Mink\n'
-p551
-sa(dp552
-g2
-S'PMS 301C'
-p553
-sg4
-S'Learning C#'
-p554
-sg6
-S'Goldfish\n'
-p555
-sa(dp556
-g2
-S'PMS 2725C'
-p557
-sg4
-S'Learning Carbon'
-p558
-sg6
-S'Bloohounds\n'
-p559
-sa(dp560
-g2
-S'PMS 2725C'
-p561
-sg4
-S'Learning Cocoa with Objective-C'
-p562
-sg6
-S'Irish setter\n'
-p563
-sa(dp564
-g2
-S'PMS 246C'
-p565
-sg4
-S'Learning GNU Emacs'
-p566
-sg6
-S'Gnu\n'
-p567
-sa(dp568
-g2
-S'PMS 2607C'
-p569
-sg4
-S'Learning Java'
-p570
-sg6
-S'Tigress & cubs\n'
-p571
-sa(dp572
-g2
-S'PMS 165C'
-p573
-sg4
-S'Learning Oracle PL/SQL'
-p574
-sg6
-S'Zebra butterfly\n'
-p575
-sa(dp576
-g2
-S'PMS 313C'
-p577
-sg4
-S'Learning Perl on Win32 Systems'
-p578
-sg6
-S'Gecko\n'
-p579
-sa(dp580
-g2
-S'PMS 313C'
-p581
-sg4
-S'Learning Perl'
-p582
-sg6
-S'Llama\n'
-p583
-sa(dp584
-g2
-S'PMS 313C'
-p585
-sg4
-S'Learning Perl Object, References, and Modules'
-p586
-sg6
-S'Alpaca\n'
-p587
-sa(dp588
-g2
-S'PMS 246C'
-p589
-sg4
-S'Learning Python'
-p590
-sg6
-S'Wood rat\n'
-p591
-sa(dp592
-g2
-S'PMS 246C'
-p593
-sg4
-S'Learning Shell Scripting'
-p594
-sg6
-S'Geometric tent tortoise\n'
-p595
-sa(dp596
-g2
-S'PMS 246C'
-p597
-sg4
-S'Learning the bash Shell'
-p598
-sg6
-S'Bass\n'
-p599
-sa(dp600
-g2
-S'PMS 246C'
-p601
-sg4
-S'Learning the Korn Shell'
-p602
-sg6
-S'Hawksbill turtle\n'
-p603
-sa(dp604
-g2
-S'PMS 246C'
-p605
-sg4
-S'Learning the Unix Operating System'
-p606
-sg6
-S'Owl\n'
-p607
-sa(dp608
-g2
-S'PMS 246C'
-p609
-sg4
-S'Learning the vi Editor'
-p610
-sg6
-S'Tarsier\n'
-p611
-sa(dp612
-g2
-S'PMS 246C'
-p613
-sg4
-S'Learning UML'
-p614
-sg6
-S'Kitten\n'
-p615
-sa(dp616
-g2
-S'PMS 2725C'
-p617
-sg4
-S'Learning Unix for Mac OS X'
-p618
-sg6
-S'Alaskan malamute\n'
-p619
-sa(dp620
-g2
-S'PMS 2725C'
-p621
-sg4
-S'Learning Unix for Mac OS X Panther'
-p622
-sg6
-S'Alaskan malamute\n'
-p623
-sa(dp624
-g2
-S'PMS 3272C'
-p625
-sg4
-S'Learning VBScript'
-p626
-sg6
-S'Seal\n'
-p627
-sa(dp628
-g2
-S'PMS 301C'
-p629
-sg4
-S'Learning Visual Basic .NET'
-p630
-sg6
-S'Snake-necked turtle\n'
-p631
-sa(dp632
-g2
-S'PMS 2607C'
-p633
-sg4
-S'Learning Wireless Java'
-p634
-sg6
-S'Galago lemur\n'
-p635
-sa(dp636
-g2
-S'PMS 3272C'
-p637
-sg4
-S'Learning XML'
-p638
-sg6
-S'Chick & egg\n'
-p639
-sa(dp640
-g2
-S'PMS 3272C'
-p641
-sg4
-S'Learning XSLT'
-p642
-sg6
-S'Marabou stork\n'
-p643
-sa(dp644
-g2
-S'PMS 246C'
-p645
-sg4
-S'lex & yacc'
-p646
-sg6
-S'Victoria crowned pigeons\n'
-p647
-sa(dp648
-g2
-S'PMS 1815C'
-p649
-sg4
-S'Linux Web Server CD Bookshelf'
-p650
-sg6
-S'Rockhopper penguin\n'
-p651
-sa(dp652
-g2
-S'PMS 2607C'
-p653
-sg4
-S'Mac OS X for Java Geeks'
-p654
-sg6
-S'Striped hyena\n'
-p655
-sa(dp656
-g2
-S'PMS 2725C'
-p657
-sg4
-S'Mac OS X for Unix Geeks'
-p658
-sg6
-S'Foxhound\n'
-p659
-sa(dp660
-g2
-S'PMS 2725C'
-p661
-sg4
-S'Mac OS X Panthet for Unix Geeks'
-p662
-sg6
-S'Foxhound\n'
-p663
-sa(dp664
-g2
-S'PMS 2725C'
-p665
-sg4
-S'Mac OS X Pocket Guide'
-p666
-sg6
-S'German shepard\n'
-p667
-sa(dp668
-g2
-S'PMS 2725C'
-p669
-sg4
-S'Mac OS X Pocket Guide'
-p670
-sg6
-S'German shepard\n'
-p671
-sa(dp672
-g2
-S'PMS 2725C'
-p673
-sg4
-S'Mac OS X Unwired'
-p674
-sg6
-S'Welsh terriers\n'
-p675
-sa(dp676
-g2
-S'PMS 2725C'
-p677
-sg4
-S'Macintosh Troubleshooting Pocket Guide'
-p678
-sg6
-S'Belgian shepherd\n'
-p679
-sa(dp680
-g2
-S'PMS 246C'
-p681
-sg4
-S'Managing & Using MySQL'
-p682
-sg6
-S'Kingfisher\n'
-p683
-sa(dp684
-g2
-S'PMS Reflex Blue'
-p685
-sg4
-S'Managing IMAP'
-p686
-sg6
-S'African bushback\n'
-p687
-sa(dp688
-g2
-S'PMS Reflex Blue'
-p689
-sg4
-S'Managing IP Networks with Cisco Routers'
-p690
-sg6
-S'Donkey\n'
-p691
-sa(dp692
-g2
-S'PMS Reflex Blue'
-p693
-sg4
-S'Managing Mailing Lists'
-p694
-sg6
-S'Woodpecker\n'
-p695
-sa(dp696
-g2
-S'PMS 301C'
-p697
-sg4
-S'Managing Microsoft Exchange Server'
-p698
-sg6
-S'Bush baby\n'
-p699
-sa(dp700
-g2
-S'PMS Reflex Blue'
-p701
-sg4
-S'Managing NFS and NIS'
-p702
-sg6
-S'Porcupines\n'
-p703
-sa(dp704
-g2
-S'PMS 246C'
-p705
-sg4
-S'Managing Projects with make'
-p706
-sg6
-S'Potto\n'
-p707
-sa(dp708
-g2
-S'PMS 301C'
-p709
-sg4
-S'Managing Security with Snort and IDS Tools'
-p710
-sg6
-S'Barbirusa\n'
-p711
-sa(dp712
-g2
-S'PMS 301C'
-p713
-sg4
-S'Managing the Windows 2000 Registry'
-p714
-sg6
-S'Orangutan\n'
-p715
-sa(dp716
-g2
-S'PMS 246C'
-p717
-sg4
-S'Mastering Algorithms with C'
-p718
-sg6
-S'Seahorse\n'
-p719
-sa(dp720
-g2
-S'PMS 313C'
-p721
-sg4
-S'Mastering Algorithms with Perl'
-p722
-sg6
-S'Wolf\n'
-p723
-sa(dp724
-g2
-S'PMS 165C'
-p725
-sg4
-S'Mastering Oracle SQL'
-p726
-sg6
-S'Pyrops candelaria (lantern flies)\n'
-p727
-sa(dp728
-g2
-S'PMS 3298C'
-p729
-sg4
-S'Mastering Perl for Bioinformatics'
-p730
-sg6
-S'Bullfrog\n'
-p731
-sa(dp732
-g2
-S'PMS 313C'
-p733
-sg4
-S'Mastering Perl/Tk'
-p734
-sg6
-S'Emu\n'
-p735
-sa(dp736
-g2
-S'PMS 313C'
-p737
-sg4
-S'Mastering Regular Expressions'
-p738
-sg6
-S'Owls\n'
-p739
-sa(dp740
-g2
-S'PMS 301C'
-p741
-sg4
-S'Mastering Visual Studio .NET'
-p742
-sg6
-S'Egyptian goose\n'
-p743
-sa(dp744
-g2
-S'PMS 246C'
-p745
-sg4
-S'MySQL Cookbook'
-p746
-sg6
-S'Green anole\n'
-p747
-sa(dp748
-g2
-S'PMS 246C'
-p749
-sg4
-S'MySQL Pocket Reference'
-p750
-sg6
-S'Kingfisher\n'
-p751
-sa(dp752
-g2
-S'PMS 2607C'
-p753
-sg4
-S'NetBeans: The Definitive Guide'
-p754
-sg6
-S'European tree frogs\n'
-p755
-sa(dp756
-g2
-S'PMS Reflex Blue'
-p757
-sg4
-S'Network Printing'
-p758
-sg6
-S'Steer\n'
-p759
-sa(dp760
-g2
-S'PMS Reflex Blue'
-p761
-sg4
-S'Network Troubleshooting Tools'
-p762
-sg6
-S'Basilisk\n'
-p763
-sa(dp764
-g2
-S'PMS Reflex Blue'
-p765
-sg4
-S'Networking CD Bookshelf'
-p766
-sg6
-S'Land crab\n'
-p767
-sa(dp768
-g2
-S'PMS 301C'
-p769
-sg4
-S'Object-Oriented Programming with Visual Basic .NET'
-p770
-sg6
-S'Cormorant\n'
-p771
-sa(dp772
-g2
-S'PMS 246C'
-p773
-sg4
-S'Objective-C Pocket Reference'
-p774
-sg6
-S'Corsac\n'
-p775
-sa(dp776
-g2
-S'PMS 3272C'
-p777
-sg4
-S'Office 2003 XML Essentials'
-p778
-sg6
-S'Palm civet\n'
-p779
-sa(dp780
-g2
-S'PMS 165C'
-p781
-sg4
-S'Optimizing Oracle Performance'
-p782
-sg6
-S'Yellowjacket\n'
-p783
-sa(dp784
-g2
-S'PMS 165C'
-p785
-sg4
-S'Oracle Built-in Packages'
-p786
-sg6
-S'Centipede\n'
-p787
-sa(dp788
-g2
-S'PMS 165C'
-p789
-sg4
-S'Oracle Database Administration: The Essential Reference'
-p790
-sg6
-S'Ladybug\n'
-p791
-sa(dp792
-g2
-S'PMS 165C'
-p793
-sg4
-S'Oracle Data Dictionary Pocket Reference'
-p794
-sg6
-S'Tsetse fly\n'
-p795
-sa(dp796
-g2
-S'PMS 165C'
-p797
-sg4
-S'Oracle DBA Checklists Pocket Reference'
-p798
-sg6
-S'Rosalie beetle\n'
-p799
-sa(dp800
-g2
-S'PMS 165C'
-p801
-sg4
-S'Oracle Design'
-p802
-sg6
-S'Dragon fly & damsel fly\n'
-p803
-sa(dp804
-g2
-S'PMS 165C'
-p805
-sg4
-S'Oracle Essentials: Oracle Database 10g'
-p806
-sg6
-S'Cicadas\n'
-p807
-sa(dp808
-g2
-S'PMS 165C'
-p809
-sg4
-S'Oracle Net8 Configuration and Troubleshooting'
-p810
-sg6
-S'Silkworm moths\n'
-p811
-sa(dp812
-g2
-S'PMS 165C'
-p813
-sg4
-S'Oracle Performance Tuning'
-p814
-sg6
-S'Honey bee\n'
-p815
-sa(dp816
-g2
-S'PMS 165C'
-p817
-sg4
-S'Oracle PL/SQL Best Practices '
-p818
-sg6
-S'Red wood ants (female & male)\n'
-p819
-sa(dp820
-g2
-S'PMS 165C'
-p821
-sg4
-S'Oracle PL/SQL Built-ins Pocket Reference'
-p822
-sg6
-S'Centipede\n'
-p823
-sa(dp824
-g2
-S'PMS 165C'
-p825
-sg4
-S'Oracle PL/SQL CD Bookshelf'
-p826
-sg6
-S'Moth\n'
-p827
-sa(dp828
-g2
-S'PMS 165C'
-p829
-sg4
-S"Oracle PL/SQL Developer's Workbook"
-p830
-sg6
-S'Stag beetle\n'
-p831
-sa(dp832
-g2
-S'PMS 165C'
-p833
-sg4
-S'Oracle PL/SQL Language Pocket Reference'
-p834
-sg6
-S'Ants\n'
-p835
-sa(dp836
-g2
-S'PMS 165C'
-p837
-sg4
-S'Oracle PL/SQL Programming'
-p838
-sg6
-S'Ants\n'
-p839
-sa(dp840
-g2
-S'PMS 165C'
-p841
-sg4
-S'Oracle Regular Expressions Pocket Reference'
-p842
-sg6
-S'Female garden spiders\n'
-p843
-sa(dp844
-g2
-S'PMS 165C'
-p845
-sg4
-S'Oracle RMAN Pocket Reference'
-p846
-sg6
-S'Dung beetle\n'
-p847
-sa(dp848
-g2
-S'PMS 165C'
-p849
-sg4
-S'Oracle Scripts'
-p850
-sg6
-S'Splendar beetle\n'
-p851
-sa(dp852
-g2
-S'PMS 165C'
-p853
-sg4
-S'Oracle SQL Tuning Pocket Reference'
-p854
-sg6
-S'Hornets\n'
-p855
-sa(dp856
-g2
-S'PMS 165C'
-p857
-sg4
-S'Oracle SQL*Loader: The Definitive Guide'
-p858
-sg6
-S'Scarab beetle\n'
-p859
-sa(dp860
-g2
-S'PMS 165C'
-p861
-sg4
-S'Oracle SQL*Plus Pocket Reference'
-p862
-sg6
-S'Moving leaf insect\n'
-p863
-sa(dp864
-g2
-S'PMS 165C'
-p865
-sg4
-S'Oracle SQL*Plus: The Definitive Guide'
-p866
-sg6
-S'Moving leaf insect\n'
-p867
-sa(dp868
-g2
-S'PMS 165C'
-p869
-sg4
-S'Oracle SQL: The Essential Reference'
-p870
-sg6
-S'Scorpion\n'
-p871
-sa(dp872
-g2
-S'PMS 165C'
-p873
-sg4
-S'Oracle8i Internal Services for Waits, Latches, Locks, and Memory'
-p874
-sg6
-S'Bumble bee\n'
-p875
-sa(dp876
-g2
-S'PMS 301C'
-p877
-sg4
-S'Outlook Pocket Guide'
-p878
-sg6
-S'Herring gull\n'
-p879
-sa(dp880
-g2
-S'PMS 877C'
-p881
-sg4
-S'Palm OS Network Programming'
-p882
-sg6
-S'Buntings\n'
-p883
-sa(dp884
-g2
-S'PMS 877C'
-p885
-sg4
-S'Palm OS Programming'
-p886
-sg6
-S'Pigeon\n'
-p887
-sa(dp888
-g2
-S'PMS 877C'
-p889
-sg4
-S'PalmPilot: The Ultimate Guide'
-p890
-sg6
-S'Flying squirrel\n'
-p891
-sa(dp892
-g2
-S'PMS 313C'
-p893
-sg4
-S'Perl 6 Essentials'
-p894
-sg6
-S'Aoudad\n'
-p895
-sa(dp896
-g2
-S'PMS 313C'
-p897
-sg4
-S'Perl & LWP'
-p898
-sg6
-S'Blesbok\n'
-p899
-sa(dp900
-g2
-S'PMS 313C'
-p901
-sg4
-S'Perl & XML'
-p902
-sg6
-S'West african green monkeys\n'
-p903
-sa(dp904
-g2
-S'PMS 313C'
-p905
-sg4
-S'Perl CD Bookshelf'
-p906
-sg6
-S'Camel\n'
-p907
-sa(dp908
-g2
-S'PMS 313C'
-p909
-sg4
-S'Perl Cookbook'
-p910
-sg6
-S'Bighorn sheep\n'
-p911
-sa(dp912
-g2
-S'PMS 313C'
-p913
-sg4
-S'Perl Debugger Pocket Reference'
-p914
-sg6
-S'Greater honeyguide\n'
-p915
-sa(dp916
-g2
-S'PMS 165C'
-p917
-sg4
-S'Perl for Oracle DBAs'
-p918
-sg6
-S'Thread-winged lacewing \n'
-p919
-sa(dp920
-g2
-S'PMS 313C'
-p921
-sg4
-S'Perl for System Administration'
-p922
-sg6
-S'Sea otter\n'
-p923
-sa(dp924
-g2
-S'PMS 3272C'
-p925
-sg4
-S'Perl for Web Site Management'
-p926
-sg6
-S'Proboscis monkey\n'
-p927
-sa(dp928
-g2
-S'PMS 313C'
-p929
-sg4
-S'Perl Graphics Programming'
-p930
-sg6
-S'Monkey\n'
-p931
-sa(dp932
-g2
-S'PMS 313C'
-p933
-sg4
-S'Perl Pocket Reference'
-p934
-sg6
-S'Llama & camel\n'
-p935
-sa(dp936
-g2
-S'PMS 313C'
-p937
-sg4
-S'Perl Template Toolkit'
-p938
-sg6
-S'Badger\n'
-p939
-sa(dp940
-g2
-S'PMS 313C'
-p941
-sg4
+(dp0
 S'Perl/Tk Pocket Reference'
-p942
-sg6
-S'Emu (jeuvenile)\n'
-p943
-sa(dp944
-g2
-S'PMS 3272C'
-p945
-sg4
-S'PHP Cookbook'
-p946
-sg6
-S'Galapagos land iguana\n'
-p947
-sa(dp948
-g2
-S'PMS 3272C'
-p949
-sg4
-S'PHP Pocket Reference'
-p950
-sg6
-S'Cuckoo\n'
-p951
-sa(dp952
-g2
-S'PMS 301C'
-p953
-sg4
-S'Physics for Game Developers'
-p954
-sg6
-S'Cat & mouse\n'
-p955
-sa(dp956
-g2
-S'PMS Reflex Blue'
-p957
-sg4
-S'Postfix: The Definitive Guide'
-p958
-sg6
-S'Dove\n'
-p959
-sa(dp960
-g2
-S'PMS 246C'
-p961
-sg4
-S'Power Programming with RPC'
-p962
-sg6
-S'Kangaroo\n'
-p963
-sa(dp964
-g2
-S'PMS 246C'
-p965
-sg4
-S'Practical PostgreSQL'
-p966
-sg6
-S'Mammoth\n'
-p967
-sa(dp968
-g2
-S'PMS 246C'
-p969
-sg4
-S'Practical C Programming'
-p970
-sg6
-S'Cow\n'
-p971
-sa(dp972
-g2
-S'PMS 246C'
-p973
-sg4
-S'Practical C++ Programming'
-p974
-sg6
-S'Chipmunk\n'
-p975
-sa(dp976
-g2
+p1
 S'PMS 313C'
-p977
-sg4
-S'Practical mod_perl '
-p978
-sg6
-S'Thoroughbred horse\n'
-p979
-sa(dp980
-g2
+p2
+sS'Dynamic HTML: The Definitive Reference'
+p3
 S'PMS 3272C'
-p981
-sg4
-S'Practical RDF'
-p982
-sg6
-S'Secretary bird\n'
-p983
-sa(dp984
-g2
+p4
+sS'Server Load Balancing'
+p5
 S'PMS Reflex Blue'
-p985
-sg4
-S'Practical VoIP Using VOCAL'
-p986
-sg6
-S'Snipefish\n'
-p987
-sa(dp988
-g2
-S'PMS 3272C'
-p989
-sg4
-S'Practical XML Data Modeling'
-p990
-sg6
-S'Crested pigeon\n'
-p991
-sa(dp992
-g2
-S'PMS 3272C'
-p993
-sg4
-S'Programming .NET Components'
-p994
-sg6
-S'Hermit crab\n'
-p995
-sa(dp996
-g2
-S'PMS 301C'
-p997
-sg4
-S'Programming .NET Web Services'
-p998
-sg6
-S'Boatbill heron\n'
-p999
-sa(dp1000
-g2
+p6
+sS'Java Performance Tuning'
+p7
 S'PMS 2607C'
-p1001
-sg4
-S'Programming Apache Axis'
-p1002
-sg6
-S'Sable antelope\n'
-p1003
-sa(dp1004
-g2
+p8
+sS'Excel Pocket Guide'
+p9
 S'PMS 301C'
-p1005
-sg4
-S'Programming ASP.NET'
-p1006
-sg6
-S'Stingray\n'
-p1007
-sa(dp1008
-g2
+p10
+sS'Win32 Multithreaded Programming'
+p11
 S'PMS 301C'
-p1009
-sg4
-S'Programming C#'
-p1010
-sg6
-S'African crowned crane\n'
-p1011
-sa(dp1012
-g2
-S'PMS 3272C'
-p1013
-sg4
-S'Programming ColdFusion MX'
-p1014
-sg6
-S'Arctic tern\n'
-p1015
-sa(dp1016
-g2
+p12
+sS'Checking C Programs with Lint'
+p13
 S'PMS 246C'
-p1017
-sg4
-S'Programming Embedded Systems in C and C++'
-p1018
-sg6
-S'Ticks\n'
-p1019
-sa(dp1020
-g2
+p14
+sS'Programming Python'
+p15
+S'PMS 246C'
+p16
+sS'sendmail Cookbook'
+p17
 S'PMS Reflex Blue'
-p1021
-sg4
-S'Programming Internet Email '
-p1022
-sg6
-S'Spotted eagle\n'
-p1023
-sa(dp1024
-g2
-S'PMS 3272C'
-p1025
-sg4
-S'Programming Jabber'
-p1026
-sg6
-S'Bellbird\n'
-p1027
-sa(dp1028
-g2
-S'PMS 2607C'
-p1029
-sg4
-S'Programming Jakarta Struts'
-p1030
-sg6
-S'Percheron\n'
-p1031
-sa(dp1032
-g2
-S'PMS 301C'
-p1033
-sg4
-S'Programming .NET Security'
-p1034
-sg6
-S'Smoothhound shark\n'
-p1035
-sa(dp1036
-g2
-S'PMS 301C'
-p1037
-sg4
-S'Programming .NET Windows Applications'
-p1038
-sg6
-S'Darter\n'
-p1039
-sa(dp1040
-g2
-S'PMS 313C'
-p1041
-sg4
-S'Programming Perl'
-p1042
-sg6
-S'Camel\n'
-p1043
-sa(dp1044
-g2
-S'PMS 3272C'
-p1045
-sg4
-S'Programming PHP'
-p1046
-sg6
-S'Cuckoo\n'
-p1047
-sa(dp1048
-g2
+p18
+sS'Learning Cocoa with Objective-C'
+p19
+S'PMS 2725C'
+p20
+sS'C Pocket Reference'
+p21
 S'PMS 246C'
-p1049
-sg4
-S'Programming Python'
-p1050
-sg6
-S'Rock python\n'
-p1051
-sa(dp1052
-g2
+p22
+sS'Oracle Performance Tuning'
+p23
+S'PMS 165C'
+p24
+sS'Programming Embedded Systems in C and C++'
+p25
+S'PMS 246C'
+p26
+sS'RELAX NG'
+p27
+S'PMS 3272C'
+p28
+sS'Oracle Built-in Packages'
+p29
+S'PMS 165C'
+p30
+sS'C# Cookbook'
+p31
 S'PMS 301C'
-p1053
-sg4
-S'Programming the .NET Compact Framework'
-p1054
-sg6
-S'Great plover\n'
-p1055
-sa(dp1056
-g2
+p32
+sS'Managing IMAP'
+p33
+S'PMS Reflex Blue'
+p34
+sS'Programming Apache Axis'
+p35
+S'PMS 2607C'
+p36
+sS'Transact-SQL Cookbook'
+p37
+S'PMS 301C'
+p38
+sS'Jakarta Struts Pocket Reference'
+p39
+S'PMS 2607C'
+p40
+sS'Effective awk Programming'
+p41
+S'PMS 246C'
+p42
+sS'Essential SNMP'
+p43
+S'PMS Reflex Blue'
+p44
+sS'Java Enterprise Best Practices'
+p45
+S'PMS 2607C'
+p46
+sS'Embedding Perl in HTML with Mason'
+p47
 S'PMS 313C'
-p1057
-sg4
-S'Programming the Perl DBI'
-p1058
-sg6
-S'Cheetah\n'
-p1059
-sa(dp1060
-g2
+p48
+sS'Writing Excel Macros with VBA'
+p49
 S'PMS 301C'
-p1061
-sg4
-S'Programming Visual Basic .NET'
-p1062
-sg6
-S'Catfish\n'
-p1063
-sa(dp1064
-g2
+p50
+sS'JDBC Pocket Reference'
+p51
+S'PMS 2607C'
+p52
+sS'Kerberos: The Definitive Guide'
+p53
+S'PMS Reflex Blue'
+p54
+sS'Running Weblogs with Slash'
+p55
+S'PMS 3272C'
+p56
+sS'Building Java Enterprise Applications Vol. II: Web Applications'
+p57
+S'PMS 2607C'
+p58
+sS'Web Privacy with P3P'
+p59
+S'PMS 3272C'
+p60
+sS'Python Programming On Win32'
+p61
+S'PMS 301C'
+p62
+sS'Mac OS X Unwired'
+p63
+S'PMS 2725C'
+p64
+sS'Excel Cookbook'
+p65
+S'PMS 301C'
+p66
+sS'Building Oracle XML Applications'
+p67
+S'PMS 165C'
+p68
+sS'WebLogic Server 6.1 Workbook for Enterprise Javabeans'
+p69
+S'PMS 2607C'
+p70
+sS'Java I/O'
+p71
+S'PMS 2607C'
+p72
+sS'JavaScript: The Definitive Guide'
+p73
+S'PMS 3272C'
+p74
+sS'Programming .NET Components'
+p75
+S'PMS 3272C'
+p76
+sS'lex & yacc'
+p77
+S'PMS 246C'
+p78
+sS'Java 2D Graphics'
+p79
+S'PMS 2607C'
+p80
+sS'Developing ASP Components'
+p81
+S'PMS 301C'
+p82
+sS'Using Samba'
+p83
+S'PMS Reflex Blue'
+p84
+sS'JavaServer Faces'
+p85
+S'PMS 2607C'
+p86
+sS'Mac OS X for Unix Geeks'
+p87
+S'PMS 2725C'
+p88
+sS'Unix CD Bookshelf'
+p89
+S'PMS 246C'
+p90
+sS"Solaris 8 Administrator's Guide"
+p91
+S'PMS Reflex Blue'
+p92
+sS'REALbasic: The Definitive Guide'
+p93
+S'PMS 2725C'
+p94
+sS'Java & XML'
+p95
+S'PMS 2607C'
+p96
+sS'Essential System Administration'
+p97
+S'PMS Reflex Blue'
+p98
+sS'Windows XP Annoyances'
+p99
+S'PMS 1375C'
+p100
+sS'WebLogic: The Definitive Guide'
+p101
+S'PMS 2607C'
+p102
+sS'Java Best Practices'
+p103
+S'PMS 2607C'
+p104
+sS'Flash Remoting MX: The Definitive Guide'
+p105
+S'PMS 3272C'
+p106
+sS'Office 2003 XML Essentials'
+p107
+S'PMS 3272C'
+p108
+sS'SSH, The Secure Shell: The Definitive Guide'
+p109
+S'PMS Reflex Blue'
+p110
+sS'Learning XML'
+p111
+S'PMS 3272C'
+p112
+sS'XSL-FO'
+p113
+S'PMS 3272C'
+p114
+sS'Running Mac OS X Panther'
+p115
+S'PMS 2725C'
+p116
+sS'RTF Pocket Guide'
+p117
+S'PMS 246C'
+p118
+sS'Oracle PL/SQL Language Pocket Reference'
+p119
+S'PMS 165C'
+p120
+sS'HTML & XHTML: The Definitive Guide'
+p121
+S'PMS 3272C'
+p122
+sS'Essential Blogging'
+p123
+S'PMS 3272C'
+p124
+sS'Practical mod_perl'
+p125
+S'PMS 313C'
+p126
+sS'Managing Security with Snort and IDS Tools'
+p127
+S'PMS 301C'
+p128
+sS'Essential CVS'
+p129
+S'PMS 246C'
+p130
+sS'Exploring Expect'
+p131
+S'PMS 246C'
+p132
+sS'Cisco Cookbook'
+p133
+S'PMS Reflex Blue'
+p134
+sS'Web, Graphics & Perl/Tk: Best of the Perl Journal'
+p135
+S'PMS 313C'
+p136
+sS'Java Swing'
+p137
+S'PMS 2607C'
+p138
+sS'Mastering Perl/Tk'
+p139
+S'PMS 313C'
+p140
+sS'Java Cookbook'
+p141
+S'PMS 2607C'
+p142
+sS'Learning Java'
+p143
+S'PMS 2607C'
+p144
+sS'sed & awk'
+p145
+S'PMS 246C'
+p146
+sS'Python Cookbook'
+p147
+S'PMS 246C'
+p148
+sS'XML Pocket Reference'
+p149
+S'PMS 3272C'
+p150
+sS'Oracle Data Dictionary Pocket Reference'
+p151
+S'PMS 165C'
+p152
+sS'Java and SOAP'
+p153
+S'PMS 2607C'
+p154
+sS'Programming Web Services with XML-RPC'
+p155
+S'PMS 3272C'
+p156
+sS'Regular Expression Pocket Reference'
+p157
+S'PMS 313C'
+p158
+sS'Linux Web Server CD Bookshelf'
+p159
+S'PMS 1815C'
+p160
+sS'Perl for System Administration'
+p161
+S'PMS 313C'
+p162
+sS'Oracle8i Internal Services for Waits, Latches, Locks, and Memory'
+p163
+S'PMS 165C'
+p164
+sS'Oracle PL/SQL CD Bookshelf'
+p165
+S'PMS 165C'
+p166
+sS'Perl Graphics Programming'
+p167
+S'PMS 313C'
+p168
+sS'Windows NT TCP/IP Network Administration'
+p169
+S'PMS 301C'
+p170
+sS'Oracle Net8 Configuration and Troubleshooting'
+p171
+S'PMS 165C'
+p172
+sS'PHP Pocket Reference'
+p173
+S'PMS 3272C'
+p174
+sS'VB.NET Language Pocket Reference'
+p175
+S'PMS 301C'
+p176
+sS'Practical RDF'
+p177
+S'PMS 3272C'
+p178
+sS'Oracle SQL*Plus Pocket Reference'
+p179
+S'PMS 165C'
+p180
+sS'Samba Pocket Reference'
+p181
+S'PMS Reflex Blue'
+p182
+sS'Java Network Programming'
+p183
+S'PMS 2607C'
+p184
+sS'Transact-SQL Programming'
+p185
+S'PMS 301C'
+p186
+sS'Hardcore Java'
+p187
+S'PMS 2607C'
+p188
+sS'Oracle SQL: The Essential Reference'
+p189
+S'PMS 165C'
+p190
+sS'Designing and Programming CICS Applications'
+p191
+S'PMS 301C'
+p192
+sS'Java Database Best Practices'
+p193
+S'PMS 2607C'
+p194
+sS'Learning the Unix Operating System'
+p195
+S'PMS 246C'
+p196
+sS'802.11 Wireless Networks: The Definitive Guide'
+p197
+S'PMS Reflex Blue'
+p198
+sS'Programming ASP.NET'
+p199
+S'PMS 301C'
+p200
+sS'Internet Core Protocols: The Definitive Guide'
+p201
+S'PMS Reflex Blue'
+p202
+sS'Java Web Services'
+p203
+S'PMS 2607C'
+p204
+sS'2001 P2P Networking Overview'
+p205
+S'PMS 254C'
+p206
+sS'Programming Visual Basic for Palm OS'
+p207
 S'PMS 877C'
-p1065
-sg4
-S'Programming Visual Basic for Palm OS'
-p1066
-sg6
-S'Flying fish\n'
-p1067
-sa(dp1068
-g2
+p208
+sS'Optimizing Oracle Performance'
+p209
+S'PMS 165C'
+p210
+sS'TOAD Pocket Reference for Oracle'
+p211
+S'PMS 165C'
+p212
+sS'TCP/IP Network Administration'
+p213
+S'PMS Reflex Blue'
+p214
+sS'Oracle Database Administration: The Essential Reference'
+p215
+S'PMS 165C'
+p216
+sS'Perl 6 Essentials'
+p217
 S'PMS 313C'
-p1069
-sg4
-S'Programming Web Services with Perl'
-p1070
-sg6
-S'Flying dragon\n'
-p1071
-sa(dp1072
-g2
-S'PMS 3272C'
-p1073
-sg4
-S'Programming Web Services with SOAP'
-p1074
-sg6
-S'Sea sponge\n'
-p1075
-sa(dp1076
-g2
-S'PMS 3272C'
-p1077
-sg4
-S'Programming Web Services with XML-RPC'
-p1078
-sg6
-S'Jelly fish\n'
-p1079
-sa(dp1080
-g2
-S'PMS 246C'
-p1081
-sg4
-S'Programming with curses'
-p1082
-sg6
-S'Pig deer\n'
-p1083
-sa(dp1084
-g2
-S'PMS 246C'
-p1085
-sg4
-S'Programming with GNU Software'
-p1086
-sg6
-S'Swan\n'
-p1087
-sa(dp1088
-g2
-S'PMS 246C'
-p1089
-sg4
-S'Programming with Qt'
-p1090
-sg6
-S'Toucan\n'
-p1091
-sa(dp1092
-g2
-S'PMS 246C'
-p1093
-sg4
-S'PThreads Programming'
-p1094
-sg6
-S'Silk worm\n'
-p1095
-sa(dp1096
-g2
-S'PMS 246C'
-p1097
-sg4
-S'Python & XML'
-p1098
-sg6
-S'Elephant shrew\n'
-p1099
-sa(dp1100
-g2
-S'PMS 246C'
-p1101
-sg4
-S'Python Cookbook'
-p1102
-sg6
-S'Spring Haas\n'
-p1103
-sa(dp1104
-g2
-S'PMS 246C'
-p1105
-sg4
-S'Python Pocket Reference'
-p1106
-sg6
-S'Rock python\n'
-p1107
-sa(dp1108
-g2
+p218
+sS'C# & VB.NET Conversion Pocket Reference'
+p219
 S'PMS 301C'
-p1109
-sg4
-S'Python Programming On Win32'
-p1110
-sg6
-S'Caiman\n'
-p1111
-sa(dp1112
-g2
+p220
+sS'Oracle Design'
+p221
+S'PMS 165C'
+p222
+sS'qmail'
+p223
+S'PMS Reflex Blue'
+p224
+sS'SQL Tuning'
+p225
 S'PMS 246C'
-p1113
-sg4
-S'Python Standard Library'
-p1114
-sg6
-S'Harvest mice\n'
-p1115
-sa(dp1116
-g2
-S'PMS Reflex Blue'
-p1117
-sg4
-S'qmail'
-p1118
-sg6
-S'Tawny owl\n'
-p1119
-sa(dp1120
-g2
-S'PMS Reflex Blue'
-p1121
-sg4
-S'RADIUS'
-p1122
-sg6
-S'Dolium shell\n'
-p1123
-sa(dp1124
-g2
+p226
+sS'JavaServer Pages Pocket Reference'
+p227
+S'PMS 2607C'
+p228
+sS'Building Cocoa Applications: A Step-by-Step Guide'
+p229
 S'PMS 2725C'
-p1125
-sg4
-S'REALbasic: The Definitive Guide'
-p1126
-sg6
-S'Greyhound\n'
-p1127
-sa(dp1128
-g2
-S'PMS 313C'
-p1129
-sg4
-S'Regular Expression Pocket Reference'
-p1130
-sg6
-S'Owls\n'
-p1131
-sa(dp1132
-g2
+p230
+sS'Word Pocket Guide'
+p231
+S'PMS 301C'
+p232
+sS'SAX2'
+p233
 S'PMS 3272C'
-p1133
-sg4
-S'RELAX NG'
-p1134
-sg6
-S'Blood pheasant\n'
-p1135
-sa(dp1136
-g2
+p234
+sS'Windows Me Annoyances'
+p235
+S'PMS 1375C'
+p236
+sS'Hardening Cisco Routers'
+p237
+S'PMS Reflex Blue'
+p238
+sS'Access Cookbook'
+p239
+S'PMS 301C'
+p240
+sS'Programming .NET Windows Applications'
+p241
+S'PMS 301C'
+p242
+sS'J2EE Design Patterns'
+p243
+S'PMS 2607C'
+p244
+sS'MySQL Pocket Reference'
+p245
+S'PMS 246C'
+p246
+sS'Web Services Essentials'
+p247
+S'PMS 3272C'
+p248
+sS'ActionScript for Flash MX: The Definitive Guide'
+p249
+S'PMS 3272C'
+p250
+sS'JavaScript & DHTML Cookbook'
+p251
+S'PMS 3272C'
+p252
+sS'Learning Perl on Win32 Systems'
+p253
+S'PMS 313C'
+p254
+sS'sendmail'
+p255
+S'PMS Reflex Blue'
+p256
+sS'VBScript Pocket Reference'
+p257
+S'PMS 301C'
+p258
+sS'Programming Jakarta Struts'
+p259
+S'PMS 2607C'
+p260
+sS'Programming Visual Basic .NET'
+p261
+S'PMS 301C'
+p262
+sS'Python Standard Library'
+p263
+S'PMS 246C'
+p264
+sS'vi Editor Pocket Reference'
+p265
+S'PMS 246C'
+p266
+sS'Perl for Web Site Management'
+p267
+S'PMS 3272C'
+p268
+sS'IPv6 Essentials'
+p269
+S'PMS Reflex Blue'
+p270
+sS'Palm OS Network Programming'
+p271
+S'PMS 877C'
+p272
+sS'Java Message Service'
+p273
+S'PMS 2607C'
+p274
+sS'HTML Pocket Reference'
+p275
+S'PMS 3272C'
+p276
+sS'DocBook: The Definitive Guide'
+p277
+S'PMS 3272C'
+p278
+sS'Computer Science & Perl Programming: Best of the Perl Journal'
+p279
+S'PMS 313C'
+p280
+sS'Writing Apache Modules with Perl and C'
+p281
+S'PMS 3272C'
+p282
+sS'Practical C++ Programming'
+p283
+S'PMS 246C'
+p284
+sS'Learning C#'
+p285
+S'PMS 301C'
+p286
+sS'Applying RCS and SCCS'
+p287
+S'PMS 246C'
+p288
+sS'Windows 2000 Commands Pocket Reference'
+p289
+S'PMS 301C'
+p290
+sS'COM+ Programming with Visual Basic'
+p291
+S'PMS 301C'
+p292
+sS'PThreads Programming'
+p293
+S'PMS 246C'
+p294
+sS'Shared Source CLI Essentials'
+p295
+S'PMS 301C'
+p296
+sS'.NET Framework Essentials'
+p297
+S'PMS 301C'
+p298
+sS'GNU Emacs Pocket Reference'
+p299
+S'PMS 246C'
+p300
+sS'Java Servlet & JSP Cookbook'
+p301
+S'PMS 2607C'
+p302
+sS'Learning Oracle PL/SQL'
+p303
+S'PMS 165C'
+p304
+sS'Beginning Perl for Bioinformatics'
+p305
 S'PMS 3298C'
-p1137
-sg4
-S'R for Bioinformatics'
-p1138
-sg6
-S'Asiatic wild ram\n'
-p1139
-sa(dp1140
-g2
+p306
+sS'Web Design CD Bookshelf'
+p307
+S'PMS 3272C'
+p308
+sS'Objective-C Pocket Reference'
+p309
 S'PMS 246C'
-p1141
-sg4
-S'RTF Pocket Guide'
-p1142
-sg6
-S'Tegu\n'
-p1143
-sa(dp1144
-g2
+p310
+sS'Windows 2000 Performance Guide'
+p311
+S'PMS 301C'
+p312
+sS'Programming ColdFusion MX'
+p313
+S'PMS 3272C'
+p314
+sS'Software Portability with imake'
+p315
+S'PMS 246C'
+p316
+sS'Learning Visual Basic .NET'
+p317
+S'PMS 301C'
+p318
+sS'XML Schema'
+p319
+S'PMS 3272C'
+p320
+sS'Programming the .NET Compact Framework'
+p321
+S'PMS 301C'
+p322
+sS'Exim: The Mail Transfer Agent'
+p323
+S'PMS Reflex Blue'
+p324
+sS'Perl Cookbook'
+p325
+S'PMS 313C'
+p326
+sS'Advanced Perl Programming'
+p327
+S'PMS 313C'
+p328
+sS'STL Pocket Reference'
+p329
+S'PMS 246C'
+p330
+sS'Network Troubleshooting Tools'
+p331
+S'PMS Reflex Blue'
+p332
+sS'Apache Pocket Reference'
+p333
+S'PMS 3272C'
+p334
+sS'Learning the Korn Shell'
+p335
+S'PMS 246C'
+p336
+sS'Enterprise JavaBeans'
+p337
+S'PMS 2607C'
+p338
+sS'Managing the Windows 2000 Registry'
+p339
+S'PMS 301C'
+p340
+sS'Programming Perl'
+p341
+S'PMS 313C'
+p342
+sS'System Performance Tuning'
+p343
+S'PMS Reflex Blue'
+p344
+sS'Programming with GNU Software'
+p345
+S'PMS 246C'
+p346
+sS'Windows XP Pocket Reference'
+p347
+S'PMS 301C'
+p348
+sS'Java & XML Data Binding'
+p349
+S'PMS 2607C'
+p350
+sS'UML Pocket Reference'
+p351
+S'PMS 246C'
+p352
+sS'Postfix: The Definitive Guide'
+p353
+S'PMS Reflex Blue'
+p354
+sS'Oracle PL/SQL Programming'
+p355
+S'PMS 165C'
+p356
+sS'Cascading Style Sheets: The Definitive Guide'
+p357
+S'PMS 3272C'
+p358
+sS'Managing Mailing Lists'
+p359
+S'PMS Reflex Blue'
+p360
+sS'CGI Programming with Perl'
+p361
+S'PMS 313C'
+p362
+sS'HTTP Pocket Reference'
+p363
+S'PMS 3272C'
+p364
+sS'Programming C#'
+p365
+S'PMS 301C'
+p366
+sS'Subclassing & Hooking with Visual Basic'
+p367
+S'PMS 301C'
+p368
+sS'Web Database Applications with PHP & MySQL'
+p369
+S'PMS 3272C'
+p370
+sS'Windows System Policy Editor'
+p371
+S'PMS 301C'
+p372
+sS'BGP'
+p373
+S'PMS Reflex Blue'
+p374
+sS'Building Java Enterprise Applications Vol. I: Architecture'
+p375
+S'PMS 2607C'
+p376
+sS'Java Threads'
+p377
+S'PMS 2607C'
+p378
+sS'Oracle PL/SQL Built-ins Pocket Reference'
+p379
+S'PMS 165C'
+p380
+sS'BEEP: The Definitive Guide'
+p381
+S'PMS Reflex Blue'
+p382
+sS'Network Printing'
+p383
+S'PMS Reflex Blue'
+p384
+sS'Windows 98 Annoyances'
+p385
+S'PMS 1375C'
+p386
+sS'C# Language Pocket Reference'
+p387
+S'PMS 301C'
+p388
+sS'Secure Programming Cookbook for C and C++'
+p389
+S'PMS 246C'
+p390
+sS'Designing Embedded Hardware'
+p391
+S'PMS 246C'
+p392
+sS'Programming Web Services with SOAP'
+p393
+S'PMS 3272C'
+p394
+sS'Programming with Qt'
+p395
+S'PMS 246C'
+p396
+sS'R for Bioinformatics'
+p397
+S'PMS 3298C'
+p398
+sS'JUnit: The Definitive Guide'
+p399
+S'PMS 2607C'
+p400
+sS'Java Programming with Oracle JDBC'
+p401
+S'PMS 165C'
+p402
+sS'Physics for Game Developers'
+p403
+S'PMS 301C'
+p404
+sS'Managing Projects with make'
+p405
+S'PMS 246C'
+p406
+sS'LDAP System Administration'
+p407
+S'PMS Reflex Blue'
+p408
+sS'CSS Pocket Reference'
+p409
+S'PMS 3272C'
+p410
+sS'Oracle DBA Checklists Pocket Reference'
+p411
+S'PMS 165C'
+p412
+sS'Perl & LWP'
+p413
+S'PMS 313C'
+p414
+sS'Python & XML'
+p415
+S'PMS 246C'
+p416
+sS'Mastering Visual Studio .NET'
+p417
+S'PMS 301C'
+p418
+sS'COM and .NET Component Services'
+p419
+S'PMS 301C'
+p420
+sS'Tcl/Tk Pocket Reference'
+p421
+S'PMS 313C'
+p422
+sS'Managing Microsoft Exchange Server'
+p423
+S'PMS 301C'
+p424
+sS'XSLT Cookbook'
+p425
+S'PMS 3272C'
+p426
+sS'Information Architecture for the World Wide Web'
+p427
+S'PMS 3272C'
+p428
+sS'Web Performance Tuning'
+p429
+S'PMS 3272C'
+p430
+sS'Macintosh Troubleshooting Pocket Guide'
+p431
 S'PMS 2725C'
-p1145
-sg4
-S'Running Mac OS X Panther'
-p1146
-sg6
-S'German shepherd\n'
-p1147
-sa(dp1148
-g2
-S'PMS 3272C'
-p1149
-sg4
-S'Running Weblogs with Slash'
-p1150
-sg6
-S'Crows\n'
-p1151
-sa(dp1152
-g2
-S'PMS Reflex Blue'
-p1153
-sg4
-S'Samba Pocket Reference'
-p1154
-sg6
-S'Hornbill\n'
-p1155
-sa(dp1156
-g2
-S'PMS 3272C'
-p1157
-sg4
-S'SAX2'
-p1158
-sg6
-S'Pampas cat\n'
-p1159
-sa(dp1160
-g2
-S'PMS 246C'
-p1161
-sg4
-S'Secure Programming Cookbook for C and C++'
-p1162
-sg6
-S'Crested porcupine\n'
-p1163
-sa(dp1164
-g2
-S'PMS 246C'
-p1165
-sg4
-S'sed & awk Pocket Reference'
-p1166
-sg6
-S'Slender lorises\n'
-p1167
-sa(dp1168
-g2
-S'PMS 246C'
-p1169
-sg4
-S'sed & awk'
-p1170
-sg6
-S'Slender lorises\n'
-p1171
-sa(dp1172
-g2
-S'PMS Reflex Blue'
-p1173
-sg4
-S'sendmail Cookbook'
-p1174
-sg6
-S'Common European bat\n'
-p1175
-sa(dp1176
-g2
-S'PMS Reflex Blue'
-p1177
-sg4
-S'sendmail Desktop Reference'
-p1178
-sg6
-S'Flying fox bat\n'
-p1179
-sa(dp1180
-g2
-S'PMS Reflex Blue'
-p1181
-sg4
-S'sendmail'
-p1182
-sg6
-S'Flying fox bat\n'
-p1183
-sa(dp1184
-g2
-S'PMS Reflex Blue'
-p1185
-sg4
-S'Server Load Balancing'
-p1186
-sg6
-S'Jacana\n'
-p1187
-sa(dp1188
-g2
+p432
+sS'Crossing Platforms: A Macintosh / Windows Phrasebook'
+p433
 S'PMS 301C'
-p1189
-sg4
-S'Shared Source CLI Essentials'
-p1190
-sg6
-S'Africa openbill\n'
-p1191
-sa(dp1192
-g2
-S'PMS 246C'
-p1193
-sg4
-S'Software Portability with imake'
-p1194
-sg6
-S'Boa constricter\n'
-p1195
-sa(dp1196
-g2
+p434
+sS'Managing NFS and NIS'
+p435
 S'PMS Reflex Blue'
-p1197
-sg4
-S"Solaris 8 Administrator's Guide"
-p1198
-sg6
-S'Spotted salamander\n'
-p1199
-sa(dp1200
-g2
-S'PMS 246C'
-p1201
-sg4
-S'SQL Pocket Reference'
-p1202
-sg6
-S'Chameleon\n'
-p1203
-sa(dp1204
-g2
-S'PMS 246C'
-p1205
-sg4
-S'SQL Tuning'
-p1206
-sg6
-S'Salamander\n'
-p1207
-sa(dp1208
-g2
+p436
+sS'Using and Managing PPP'
+p437
 S'PMS Reflex Blue'
-p1209
-sg4
-S'Squid: The Definitive Guide'
-p1210
-sg6
-S'Squid\n'
-p1211
-sa(dp1212
-g2
-S'PMS Reflex Blue'
-p1213
-sg4
-S'SSH, The Secure Shell: The Definitive Guide'
-p1214
-sg6
-S'Snail\n'
-p1215
-sa(dp1216
-g2
-S'PMS 246C'
-p1217
-sg4
-S'STL Pocket Reference'
-p1218
-sg6
-S'Eastern chipmunks\n'
-p1219
-sa(dp1220
-g2
-S'PMS 301C'
-p1221
-sg4
-S'Subclassing & Hooking with Visual Basic'
-p1222
-sg6
-S'Sooty phalanger (brush-tailed possums) \n'
-p1223
-sa(dp1224
-g2
-S'PMS 3272C'
-p1225
-sg4
-S'SVG Essentials'
-p1226
-sg6
-S'Arcus pheasant\n'
-p1227
-sa(dp1228
-g2
-S'PMS Reflex Blue'
-p1229
-sg4
-S'System Performance Tuning'
-p1230
-sg6
-S'Swordfish\n'
-p1231
-sa(dp1232
-g2
-S'PMS Reflex Blue'
-p1233
-sg4
-S'T1 : A Survival Guide'
-p1234
-sg6
-S'Caribou\n'
-p1235
-sa(dp1236
-g2
+p438
+sS'Programming the Perl DBI'
+p439
 S'PMS 313C'
-p1237
-sg4
-S'Tcl/Tk Pocket Reference'
-p1238
-sg6
-S'Monkey\n'
-p1239
-sa(dp1240
-g2
+p440
+sS'Cisco IOS Access Lists'
+p441
 S'PMS Reflex Blue'
-p1241
-sg4
-S'TCP/IP Network Administration'
-p1242
-sg6
-S'Land crab\n'
-p1243
-sa(dp1244
-g2
+p442
+sS'Mac OS X Pocket Guide'
+p443
+S'PMS 2725C'
+p444
+sS'Using SANs and NAS'
+p445
 S'PMS Reflex Blue'
-p1245
-sg4
-S'termcap and terminfo'
-p1246
-sg6
-S'Great black cockatoo\n'
-p1247
-sa(dp1248
-g2
+p446
+sS'ADO: ActiveX Data Objects'
+p447
+S'PMS 301C'
+p448
+sS'DNS and BIND'
+p449
+S'PMS Reflex Blue'
+p450
+sS'Web Security, Privacy & Commerce'
+p451
+S'PMS 3272C'
+p452
+sS'MySQL Cookbook'
+p453
+S'PMS 246C'
+p454
+sS'Programming with curses'
+p455
+S'PMS 246C'
+p456
+sS'XML Publishing with AxKit'
+p457
+S'PMS 3272C'
+p458
+sS'HTTP: The Definitive Guide'
+p459
+S'PMS 3272C'
+p460
+sS'Oracle RMAN Pocket Reference'
+p461
 S'PMS 165C'
-p1249
-sg4
-S'TOAD Pocket Reference for Oracle'
-p1250
-sg6
-S'Toad & insect\n'
-p1251
-sa(dp1252
-g2
+p462
+sS'Learning the bash Shell'
+p463
+S'PMS 246C'
+p464
+sS'Access Database Design & Programming'
+p465
+S'PMS 301C'
+p466
+sS'DNS on Windows 2000'
+p467
+S'PMS 301C'
+p468
+sS'Programming .NET Web Services'
+p469
+S'PMS 301C'
+p470
+sS'Java Enterprise CD Bookshelf'
+p471
 S'PMS 2607C'
-p1253
-sg4
-S'Tomcat: The Definitive Guide'
-p1254
-sg6
-S'Snow leopard\n'
-p1255
-sa(dp1256
-g2
-S'PMS 301C'
-p1257
-sg4
-S'Transact-SQL Cookbook'
-p1258
-sg6
-S'Tree Swift\n'
-p1259
-sa(dp1260
-g2
-S'PMS 301C'
-p1261
-sg4
-S'Transact-SQL Programming '
-p1262
-sg6
-S'Wall creepers\n'
-p1263
-sa(dp1264
-g2
-S'PMS 246C'
-p1265
-sg4
-S'UML Pocket Reference'
-p1266
-sg6
-S'Kitten\n'
-p1267
-sa(dp1268
-g2
-S'PMS Reflex Blue'
-p1269
-sg4
-S'Unix Backup and Recovery'
-p1270
-sg6
-S'Gavial\n'
-p1271
-sa(dp1272
-g2
-S'PMS 246C'
-p1273
-sg4
-S'Unix CD Bookshelf'
-p1274
-sg6
-S'Tarsier\n'
-p1275
-sa(dp1276
-g2
+p472
+sS'Developing Bioinformatics Computer Skills'
+p473
+S'PMS 3298C'
+p474
+sS'Database Programming with JDBC and Java'
+p475
+S'PMS 2607C'
+p476
+sS'Ant: The Definitive Guide'
+p477
+S'PMS 2607C'
+p478
+sS'Learning VBScript'
+p479
+S'PMS 3272C'
+p480
+sS'Java Security'
+p481
+S'PMS 2607C'
+p482
+sS'Unix for Oracle DBAs Pocket Reference'
+p483
 S'PMS 165C'
-p1277
-sg4
-S'Unix for Oracle DBAs Pocket Reference'
-p1278
-sg6
-S'Flies\n'
-p1279
-sa(dp1280
-g2
-S'PMS Reflex Blue'
-p1281
-sg4
-S'Using and Managing PPP'
-p1282
-sg6
-S'Turtle\n'
-p1283
-sa(dp1284
-g2
-S'PMS 246C'
-p1285
-sg4
-S'Using csh & tcsh'
-p1286
-sg6
-S'Oyster catcher\n'
-p1287
-sa(dp1288
-g2
-S'PMS Reflex Blue'
-p1289
-sg4
-S'Using Samba'
-p1290
-sg6
-S'North African ground hornbill\n'
-p1291
-sa(dp1292
-g2
-S'PMS Reflex Blue'
-p1293
-sg4
-S'Using SANs and NAS'
-p1294
-sg6
-S'Pika & hyrax\n'
-p1295
-sa(dp1296
-g2
-S'PMS 301C'
-p1297
-sg4
-S'VB.NET Language Pocket Reference'
-p1298
-sg6
-S'Catfish\n'
-p1299
-sa(dp1300
-g2
-S'PMS 301C'
-p1301
-sg4
-S'VBScript Pocket Reference'
-p1302
-sg6
-S'Pinscher dog\n'
-p1303
-sa(dp1304
-g2
-S'PMS 246C'
-p1305
-sg4
-S'vi Editor Pocket Reference'
-p1306
-sg6
-S'Tarsier\n'
-p1307
-sa(dp1308
-g2
-S'PMS Reflex Blue'
-p1309
-sg4
-S'Virtual Private Networks'
-p1310
-sg6
-S'Puffins\n'
-p1311
-sa(dp1312
-g2
+p484
+sS'XSLT'
+p485
 S'PMS 3272C'
-p1313
-sg4
-S'Web Caching'
-p1314
-sg6
-S'Rock thrush\n'
-p1315
-sa(dp1316
-g2
-S'PMS 3272C'
-p1317
-sg4
-S'Web Database Applications with PHP & MySQL'
-p1318
-sg6
-S'Platypus\n'
-p1319
-sa(dp1320
-g2
-S'PMS 3272C'
-p1321
-sg4
-S'Web Design CD Bookshelf'
-p1322
-sg6
-S'Koala\n'
-p1323
-sa(dp1324
-g2
-S'PMS 3272C'
-p1325
-sg4
-S'Web Performance Tuning'
-p1326
-sg6
-S'Sword billed humming bird\n'
-p1327
-sa(dp1328
-g2
-S'PMS 3272C'
-p1329
-sg4
-S'Web Privacy with P3P'
-p1330
-sg6
-S'Lioness\n'
-p1331
-sa(dp1332
-g2
-S'PMS 3272C'
-p1333
-sg4
-S'Web Security, Privacy & Commerce'
-p1334
-sg6
-S'Whale shark\n'
-p1335
-sa(dp1336
-g2
-S'PMS 3272C'
-p1337
-sg4
-S'Web Services Essentials'
-p1338
-sg6
-S'Spiny lobster\n'
-p1339
-sa(dp1340
-g2
+p486
+sS'Learning Perl'
+p487
 S'PMS 313C'
-p1341
-sg4
-S'Web, Graphics & Perl/Tk: Best of the Perl Journal'
-p1342
-sg6
-S'Emu\n'
-p1343
-sa(dp1344
-g2
+p488
+sS'RADIUS'
+p489
+S'PMS Reflex Blue'
+p490
+sS'XPath and XPointer'
+p491
+S'PMS 3272C'
+p492
+sS'Mac OS X Panthet for Unix Geeks'
+p493
+S'PMS 2725C'
+p494
+sS'Content Syndication with RSS'
+p495
+S'PMS 3272C'
+p496
+sS'Oracle SQL*Plus: The Definitive Guide'
+p497
+S'PMS 165C'
+p498
+sS'Mastering Algorithms with Perl'
+p499
+S'PMS 313C'
+p500
+sS'Java Data Objects'
+p501
 S'PMS 2607C'
-p1345
-sg4
-S'WebLogic Server 6.1 Workbook for Enterprise Javabeans'
-p1346
-sg6
-S'Wallaby & joey\n'
-p1347
-sa(dp1348
-g2
+p502
+sS'ActionScript Cookbook'
+p503
+S'PMS 3272C'
+p504
+sS'JavaScript Pocket Reference'
+p505
+S'PMS 3272C'
+p506
+sS'Mastering Oracle SQL'
+p507
+S'PMS 165C'
+p508
+sS'CJKV Information Processing'
+p509
+S'PMS 032C'
+p510
+sS'Oracle Scripts'
+p511
+S'PMS 165C'
+p512
+sS'Practical C Programming'
+p513
+S'PMS 246C'
+p514
+sS'C++ Pocket Reference'
+p515
+S'PMS 246C'
+p516
+sS'Learning Shell Scripting'
+p517
+S'PMS 246C'
+p518
+sS'Perl for Oracle DBAs'
+p519
+S'PMS 165C'
+p520
+sS'Mastering Algorithms with C'
+p521
+S'PMS 246C'
+p522
+sS"Oracle PL/SQL Developer's Workbook"
+p523
+S'PMS 165C'
+p524
+sS'Jython Essentials'
+p525
+S'PMS 246C'
+p526
+sS'Tomcat: The Definitive Guide'
+p527
 S'PMS 2607C'
-p1349
-sg4
-S'WebLogic: The Definitive Guide'
-p1350
-sg6
-S'Sand star\n'
-p1351
-sa(dp1352
-g2
+p528
+sS'Perl Debugger Pocket Reference'
+p529
+S'PMS 313C'
+p530
+sS'Oracle Regular Expressions Pocket Reference'
+p531
+S'PMS 165C'
+p532
+sS'GIMP Pocket Reference'
+p533
+S'PMS 246C'
+p534
+sS'CVS Pocket Reference'
+p535
+S'PMS 246C'
+p536
+sS'Programming PHP'
+p537
+S'PMS 3272C'
+p538
+sS'DHCP for Windows 2000'
+p539
+S'PMS 301C'
+p540
+sS'802.11 Security'
+p541
+S'PMS Reflex Blue'
+p542
+sS'Learning Unix for Mac OS X Panther'
+p543
+S'PMS 2725C'
+p544
+sS'Object-Oriented Programming with Visual Basic .NET'
+p545
+S'PMS 301C'
+p546
+sS'Practical PostgreSQL'
+p547
+S'PMS 246C'
+p548
+sS'Games, Diversions & Perl Culture: Best of the Perl Journal'
+p549
+S'PMS 313C'
+p550
+sS'Mastering Regular Expressions'
+p551
+S'PMS 313C'
+p552
+sS'Oracle Essentials: Oracle Database 10g'
+p553
+S'PMS 165C'
+p554
+sS'PHP Cookbook'
+p555
+S'PMS 3272C'
+p556
+sS'Ethernet:The Definitive Guide'
+p557
+S'PMS Reflex Blue'
+p558
+sS'Oracle SQL Tuning Pocket Reference'
+p559
+S'PMS 165C'
+p560
+sS'sendmail Desktop Reference'
+p561
+S'PMS Reflex Blue'
+p562
+sS'.NET My Services Essentials'
+p563
+S'PMS 301C'
+p564
+sS'Practical VoIP Using VOCAL'
+p565
+S'PMS Reflex Blue'
+p566
+sS'Java NIO'
+p567
 S'PMS 2607C'
-p1353
-sg4
-S'WebSphere 4.0 AEs Workbook for Enterprise Javabeans'
-p1354
-sg6
-S'Wallaby & joey\n'
-p1355
-sa(dp1356
-g2
-S'PMS 301C'
-p1357
-sg4
-S'Win32 API Programming with Visual Basic'
-p1358
-sg6
-S'Entellus or hanuman monkey\n'
-p1359
-sa(dp1360
-g2
-S'PMS 301C'
-p1361
-sg4
-S'Win32 Multithreaded Programming'
-p1362
-sg6
-S"Man-o'-war\n"
-p1363
-sa(dp1364
-g2
-S'PMS 301C'
-p1365
-sg4
-S'Windows 2000 Commands Pocket Reference'
-p1366
-sg6
-S'Crested eagle\n'
-p1367
-sa(dp1368
-g2
-S'PMS 301C'
-p1369
-sg4
-S'Windows 2000 Performance Guide'
-p1370
-sg6
-S'Stickleback fish\n'
-p1371
-sa(dp1372
-g2
-S'PMS 1375C'
-p1373
-sg4
-S'Windows 98 Annoyances'
-p1374
-sg6
-S'European common toad\n'
-p1375
-sa(dp1376
-g2
-S'PMS 1375C'
-p1377
-sg4
-S'Windows Me Annoyances'
-p1378
-sg6
-S'Fat frog\n'
-p1379
-sa(dp1380
-g2
-S'PMS 301C'
-p1381
-sg4
-S'Windows NT TCP/IP Network Administration'
-p1382
-sg6
-S'Horse shoe crab\n'
-p1383
-sa(dp1384
-g2
-S'PMS 301C'
-p1385
-sg4
-S'Windows System Policy Editor'
-p1386
-sg6
-S'Caracara bird\n'
-p1387
-sa(dp1388
-g2
-S'PMS 1375C'
-p1389
-sg4
-S'Windows XP Annoyances'
-p1390
-sg6
-S'Surinam toad\n'
-p1391
-sa(dp1392
-g2
-S'PMS 301C'
-p1393
-sg4
-S'Windows XP Pocket Reference'
-p1394
-sg6
-S'Climbing frog\n'
-p1395
-sa(dp1396
-g2
-S'PMS 301C'
-p1397
-sg4
-S'Word Pocket Guide'
-p1398
-sg6
-S'Parakeet\n'
-p1399
-sa(dp1400
-g2
+p568
+sS'Java Servlet Programming'
+p569
+S'PMS 2607C'
+p570
+sS'Oracle PL/SQL Best Practices'
+p571
+S'PMS 165C'
+p572
+sS'Managing & Using MySQL'
+p573
+S'PMS 246C'
+p574
+sS'NetBeans: The Definitive Guide'
+p575
+S'PMS 2607C'
+p576
+sS'Cocoa Design Patterns'
+p577
+S'PMS 2725C'
+p578
+sS'C++ The Core Language'
+p579
+S'PMS 246C'
+p580
+sS'Designing Large-Scale LANs'
+p581
+S'PMS Reflex Blue'
+p582
+sS'Using csh & tcsh'
+p583
+S'PMS 246C'
+p584
+sS'Practical XML Data Modeling'
+p585
 S'PMS 3272C'
-p1401
-sg4
-S'Writing Apache Modules with Perl and C'
-p1402
-sg6
-S'White-tailed eagle\n'
-p1403
-sa(dp1404
-g2
+p586
+sS'Outlook Pocket Guide'
+p587
 S'PMS 301C'
-p1405
-sg4
-S'Writing Excel Macros with VBA'
-p1406
-sg6
-S'Bluejay\n'
-p1407
-sa(dp1408
-g2
+p588
+sS'Java Management Extensions'
+p589
+S'PMS 2607C'
+p590
+sS'Python Pocket Reference'
+p591
+S'PMS 246C'
+p592
+sS'SQL Pocket Reference'
+p593
+S'PMS 246C'
+p594
+sS'Learning UML'
+p595
+S'PMS 246C'
+p596
+sS'Networking CD Bookshelf'
+p597
+S'PMS Reflex Blue'
+p598
+sS'Perl & XML'
+p599
+S'PMS 313C'
+p600
+sS'ASP.NET Cookbook'
+p601
 S'PMS 301C'
-p1409
-sg4
-S'Writing Word Macros'
-p1410
-sg6
-S'Beisa oryx\n'
-p1411
-sa(dp1412
-g2
+p602
+sS'Mac OS X for Java Geeks'
+p603
+S'PMS 2607C'
+p604
+sS'Win32 API Programming with Visual Basic'
+p605
+S'PMS 301C'
+p606
+sS'Building Wireless Community Networks'
+p607
+S'PMS Reflex Blue'
+p608
+sS'Essential System Administration Pocket Reference'
+p609
+S'PMS 301C'
+p610
+sS'Apache: The Definitive Guide'
+p611
 S'PMS 3272C'
-p1413
-sg4
-S'XML CD Bookshelf'
-p1414
-sg6
-S'Peacock\n'
-p1415
-sa(dp1416
-g2
+p612
+sS'T1 : A Survival Guide'
+p613
+S'PMS Reflex Blue'
+p614
+sS'Learning Wireless Java'
+p615
+S'PMS 2607C'
+p616
+sS'Palm OS Programming'
+p617
+S'PMS 877C'
+p618
+sS'Building Database-Driven Web Sites with Dreamweaver MX 2004'
+p619
 S'PMS 3272C'
-p1417
-sg4
-S'XML Pocket Reference'
-p1418
-sg6
-S'Peafowl\n'
-p1419
-sa(dp1420
-g2
+p620
+sS'Applescript: The Definitive Guide'
+p621
+S'PMS 2725C'
+p622
+sS'Learning Unix for Mac OS X'
+p623
+S'PMS 2725C'
+p624
+sS'PalmPilot: The Ultimate Guide'
+p625
+S'PMS 877C'
+p626
+sS'ActionScript for Flash MX Pocket Reference'
+p627
 S'PMS 3272C'
-p1421
-sg4
-S'XML Publishing with AxKit'
-p1422
-sg6
-S'Tarpan\n'
-p1423
-sa(dp1424
-g2
+p628
+sS'Java RMI'
+p629
+S'PMS 2607C'
+p630
+sS'Java Extreme Programming Cookbook'
+p631
+S'PMS 2607C'
+p632
+sS'Mastering Perl for Bioinformatics'
+p633
+S'PMS 3298C'
+p634
+sS'DNS and BIND Cookbook'
+p635
+S'PMS Reflex Blue'
+p636
+sS'.NET and XML'
+p637
+S'PMS 301C'
+p638
+sS'Designing Active Server Pages'
+p639
+S'PMS 301C'
+p640
+sS'XML CD Bookshelf'
+p641
 S'PMS 3272C'
-p1425
-sg4
-S'XML Schema'
-p1426
-sg6
-S"Reeves's pheasant\n"
-p1427
-sa(dp1428
-g2
+p642
+sS'Programming .NET Security'
+p643
+S'PMS 301C'
+p644
+sS'Perl Template Toolkit'
+p645
+S'PMS 313C'
+p646
+sS'SVG Essentials'
+p647
 S'PMS 3272C'
-p1429
-sg4
-S'XPath and XPointer'
-p1430
-sg6
-S'Bee eaters\n'
-p1431
-sa(dp1432
-g2
+p648
+sS'Virtual Private Networks'
+p649
+S'PMS Reflex Blue'
+p650
+sS'Managing IP Networks with Cisco Routers'
+p651
+S'PMS Reflex Blue'
+p652
+sS'ADO.NET Cookbook'
+p653
+S'PMS 301C'
+p654
+sS'IP Routing'
+p655
+S'PMS Reflex Blue'
+p656
+sS'Perl Pocket Reference'
+p657
+S'PMS 313C'
+p658
+sS'Oracle SQL*Loader: The Definitive Guide'
+p659
+S'PMS 165C'
+p660
+sS'C# Essentials'
+p661
+S'PMS 301C'
+p662
+sS'Programming Jabber'
+p663
 S'PMS 3272C'
-p1433
-sg4
-S'XSL-FO'
-p1434
-sg6
-S'Pennant-winged night jar\n'
-p1435
-sa(dp1436
-g2
+p664
+sS'Learning GNU Emacs'
+p665
+S'PMS 246C'
+p666
+sS'Web Caching'
+p667
 S'PMS 3272C'
-p1437
-sg4
-S'XSLT'
-p1438
-sg6
-S'Jabiru\n'
-p1439
-sa(dp1440
-g2
+p668
+sS'Learning the vi Editor'
+p669
+S'PMS 246C'
+p670
+sS'Programming Internet Email'
+p671
+S'PMS Reflex Blue'
+p672
+sS'Writing Word Macros'
+p673
+S'PMS 301C'
+p674
+sS'Unix Backup and Recovery'
+p675
+S'PMS Reflex Blue'
+p676
+sS'Power Programming with RPC'
+p677
+S'PMS 246C'
+p678
+sS'Learning Python'
+p679
+S'PMS 246C'
+p680
+sS'Learning Carbon'
+p681
+S'PMS 2725C'
+p682
+sS'Extreme Programming Pocket Guide'
+p683
+S'PMS 313C'
+p684
+sS'sed & awk Pocket Reference'
+p685
+S'PMS 246C'
+p686
+sS'JavaServer Pages'
+p687
+S'PMS 2607C'
+p688
+sS'Programming Web Services with Perl'
+p689
+S'PMS 313C'
+p690
+sS'Internet Application Protocols: The Definitive Guide'
+p691
+S'PMS Reflex Blue'
+p692
+sS'Creating Applications with Mozilla'
+p693
 S'PMS 3272C'
-p1441
-sg4
-S'XSLT Cookbook'
-p1442
-sg6
-S'Red mullet fish\n'
-p1443
-sa.
+p694
+sS'JavaScript Application Cookbook'
+p695
+S'PMS 3272C'
+p696
+sS'Apache Cookbook'
+p697
+S'PMS 3272C'
+p698
+sS'Squid: The Definitive Guide'
+p699
+S'PMS Reflex Blue'
+p700
+sS'Active Directory'
+p701
+S'PMS 301C'
+p702
+sS'Perl CD Bookshelf'
+p703
+S'PMS 313C'
+p704
+sS'termcap and terminfo'
+p705
+S'PMS Reflex Blue'
+p706
+sS'Java Internationalization'
+p707
+S'PMS 2607C'
+p708
+sS'Java and XSLT'
+p709
+S'PMS 2607C'
+p710
+sS'Learning Perl Object, References, and Modules'
+p711
+S'PMS 313C'
+p712
+sS'Learning XSLT'
+p713
+S'PMS 3272C'
+p714
+sS'WebSphere 4.0 AEs Workbook for Enterprise Javabeans'
+p715
+S'PMS 2607C'
+p716
+sS'BLAST'
+p717
+S'PMS 3298C'
+p718
+s.

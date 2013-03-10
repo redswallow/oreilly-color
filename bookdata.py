@@ -10,7 +10,7 @@ PICKLE_FILE='bookdata_pickle'
 COLOR_FILE='color_pickle'
 STOPWORDS_FILE='stopwords'
 TAB='	'
-PMS2RGB={u'PMS 301C': u'#0000CC', u'PMS 1815C': u'#660000', u'PMS 3272C': u'#009999', u'PMS 313C': u'#006699', u'PMS 165C': u'#FF6600', u'PMS 1375C': u'#FF9933', u'PMS 3298C': u'#006666', u'PMS 877C': u'#6699CC', u'PMS 2607C': u'#330066', u'&nbsp;': u'#0000CC', u'PMS Reflex Blue': u'#000099', u'PMS 032C': u'#CC0033', u'PMS 246C': u'#990066', u'PMS 254C': u'#990099', u'PMS 2725C': u'#660098'}
+PMS2RGB={u'PMS 301C': u'#0000CC', u'PMS 1815C': u'#660000', u'PMS 3272C': u'#009999', u'PMS 313C': u'#006699', u'PMS 165C': u'#FF6600', u'PMS 1375C': u'#FF9933', u'PMS 3298C': u'#006666', u'PMS 877C': u'#6699CC', u'PMS 2607C': u'#330066', u'PMS Reflex Blue': u'#000099', u'PMS 032C': u'#CC0033', u'PMS 246C': u'#990066', u'PMS 254C': u'#990099', u'PMS 2725C': u'#660098'}
 
 
 def get_books():
@@ -18,13 +18,13 @@ def get_books():
         with file(PICKLE_FILE,'rb') as f:
             books=pickle.load(f)
     except:
-        books=[]
+        books={}
         with open(RAW_FILE,'r') as f:
             for line in f.readlines():
-                book={}
-                book['color'],book['name'],book['animal']=line.split(TAB) #lower title
-                book['color']=' '.join(book['color'].split()) # fix: remove the last space in color name 'PMS 301C '
-                books.append(book)
+                color,name,animal=line.split(TAB) #lower title
+                color=' '.join(color.split()) # fix: remove the last space in color, e.g: 'PMS 301C '
+                name=' '.join(name.split()) # fix: remove the last space in name
+                books[name]=color
 
         with file(PICKLE_FILE,'wb') as f:
             pickle.dump(books,f)
@@ -54,11 +54,11 @@ def color_set(books):
             colors=pickle.load(f)
     except:
         colors={}
-        for book in books:
-            if book['color'] in colors.keys():
-                colors[book['color']].append(book['name'])
+        for bookname in books:
+            if books[bookname] in colors.keys():
+                colors[books[bookname]].append(bookname)
             else:
-                colors[book['color']]=[book['name']]
+                colors[books[bookname]]=[bookname]
         with file(COLOR_FILE,'wb') as f:
             pickle.dump(colors,f)
     return colors
@@ -88,33 +88,23 @@ def book_keywords(books):
 def network(books):
     stopwords=get_stopwords()
     G=nx.Graph()
-    node_color=[]
     for book1 in books:
-        G.add_node(book1['name'])
-        node_color.append(PMS2RGB[book1['color']])
+        G.add_node(book1)
         for book2 in books:
-            if book1==book2:
-                continue
+            if book1==book2:continue
             else:
-                for word in get_bookwords(book1['name']):
-                    if word not in stopwords and word in get_bookwords(book2['name']):
-                        G.add_edge(book1['name'],book2['name'])
+                for word in get_bookwords(book1):
+                    if word not in stopwords and word in get_bookwords(book2):
+                        G.add_edge(book1,book2)
     node_size=[G.degree(v)*10+10 for v in G]
+    node_color=[PMS2RGB[books[v]]for v in G]
     pos=nx.spring_layout(G)
     nx.draw_networkx_edges(G,pos,alpha=0.05)
     nx.draw_networkx_nodes(G,pos,node_size=node_size,node_color=node_color,alpha=0.3)
-    #nx.draw_networkx_labels(G,pos,alpha=0.3)
+    nx.draw_networkx_labels(G,pos,font_size=6,alpha=0.01)
     #print G.degree()
     plt.show()
 
 def wordle(words):
     tags = make_tags(fdist.items()[:100], maxsize=50)
     create_tag_image(tags, 'sample_word_cloud.png', size=(900, 600), background=(0, 0, 0))
-    
-    
-books=get_books()
-colors=color_set(books)
-#book_num_by_colors_img(colors)
-#print colors['PMS Reflex Blue']
-#print book_keywords(colors['PMS 301C'])
-network(books)
